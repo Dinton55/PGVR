@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 02/20/18 22:41:20
+=======
+﻿Log file open, 02/20/18 19:13:03
+>>>>>>> b1d4c6b850f9b065da1dc6a21f86f48138ba6484
 =======
 ﻿Log file open, 02/20/18 19:13:03
 >>>>>>> b1d4c6b850f9b065da1dc6a21f86f48138ba6484
@@ -12,7 +16,11 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: VRProj
 LogPlatformFile: Not using cached read wrapper
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: Display: RandInit(-384005317) SRandInit(-384005317).
+=======
+LogInit: Display: RandInit(-2074204308) SRandInit(-2074204308).
+>>>>>>> b1d4c6b850f9b065da1dc6a21f86f48138ba6484
 =======
 LogInit: Display: RandInit(-2074204308) SRandInit(-2074204308).
 >>>>>>> b1d4c6b850f9b065da1dc6a21f86f48138ba6484
@@ -21,7 +29,11 @@ LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.217351
+=======
+LogStats: Stats thread started at 0.167987
+>>>>>>> b1d4c6b850f9b065da1dc6a21f86f48138ba6484
 =======
 LogStats: Stats thread started at 0.167987
 >>>>>>> b1d4c6b850f9b065da1dc6a21f86f48138ba6484
@@ -207,6 +219,7 @@ LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2018.02.20-22.41.24:706][  0]LogInit: Selected Device Profile: [Windows]
 [2018.02.20-22.41.24:706][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
@@ -792,6 +805,8 @@ LogInit: Object subsystem initialized
 [2018.02.20-22.43.34:851][280]LogExit: Exiting.
 [2018.02.20-22.43.34:864][280]Log file closed, 02/20/18 22:43:34
 =======
+=======
+>>>>>>> b1d4c6b850f9b065da1dc6a21f86f48138ba6484
 [2018.02.20-19.13.05:831][  0]LogInit: Selected Device Profile: [Windows]
 [2018.02.20-19.13.05:831][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.02.20-19.13.05:843][  0]LogInit: Computer: DESKTOP-908AS1F
@@ -3202,4 +3217,7 @@ LogInit: Object subsystem initialized
 [2018.02.20-22.28.17:716][ 41]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.02.20-22.28.17:722][ 41]LogExit: Exiting.
 [2018.02.20-22.28.17:737][ 41]Log file closed, 02/20/18 22:28:17
+<<<<<<< HEAD
+>>>>>>> b1d4c6b850f9b065da1dc6a21f86f48138ba6484
+=======
 >>>>>>> b1d4c6b850f9b065da1dc6a21f86f48138ba6484
