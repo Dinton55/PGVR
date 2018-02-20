@@ -16,7 +16,7 @@ struct FHitResult;
 #endif
 #define VRPROJ_VRCharacterPrototype_generated_h
 
-#define VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_12_RPC_WRAPPERS \
+#define GumshoeVR_Source_VRProj_VRCharacterPrototype_h_12_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execOnRightHandOverlapEnd) \
 	{ \
@@ -71,7 +71,7 @@ struct FHitResult;
 	}
 
 
-#define VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GumshoeVR_Source_VRProj_VRCharacterPrototype_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execOnRightHandOverlapEnd) \
 	{ \
@@ -126,7 +126,7 @@ struct FHitResult;
 	}
 
 
-#define VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_12_INCLASS_NO_PURE_DECLS \
+#define GumshoeVR_Source_VRProj_VRCharacterPrototype_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAVRCharacterPrototype(); \
 	friend VRPROJ_API class UClass* Z_Construct_UClass_AVRCharacterPrototype(); \
@@ -136,7 +136,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_12_INCLASS \
+#define GumshoeVR_Source_VRProj_VRCharacterPrototype_h_12_INCLASS \
 private: \
 	static void StaticRegisterNativesAVRCharacterPrototype(); \
 	friend VRPROJ_API class UClass* Z_Construct_UClass_AVRCharacterPrototype(); \
@@ -146,7 +146,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_12_STANDARD_CONSTRUCTORS \
+#define GumshoeVR_Source_VRProj_VRCharacterPrototype_h_12_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AVRCharacterPrototype(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AVRCharacterPrototype) \
@@ -159,7 +159,7 @@ private: \
 public:
 
 
-#define VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_12_ENHANCED_CONSTRUCTORS \
+#define GumshoeVR_Source_VRProj_VRCharacterPrototype_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AVRCharacterPrototype(AVRCharacterPrototype&&); \
@@ -170,7 +170,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AVRCharacterPrototype); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AVRCharacterPrototype)
 
 
-#define VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_12_PRIVATE_PROPERTY_OFFSET \
+#define GumshoeVR_Source_VRProj_VRCharacterPrototype_h_12_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__CameraComp() { return STRUCT_OFFSET(AVRCharacterPrototype, CameraComp); } \
 	FORCEINLINE static uint32 __PPO__VROriginComp() { return STRUCT_OFFSET(AVRCharacterPrototype, VROriginComp); } \
 	FORCEINLINE static uint32 __PPO__bPositionalHeadTracking() { return STRUCT_OFFSET(AVRCharacterPrototype, bPositionalHeadTracking); } \
@@ -181,31 +181,31 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AVRCharacterPrototype); \
 	FORCEINLINE static uint32 __PPO__FlashlightActive() { return STRUCT_OFFSET(AVRCharacterPrototype, FlashlightActive); }
 
 
-#define VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_9_PROLOG
-#define VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_12_GENERATED_BODY_LEGACY \
+#define GumshoeVR_Source_VRProj_VRCharacterPrototype_h_9_PROLOG
+#define GumshoeVR_Source_VRProj_VRCharacterPrototype_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_12_PRIVATE_PROPERTY_OFFSET \
-	VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_12_RPC_WRAPPERS \
-	VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_12_INCLASS \
-	VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_12_STANDARD_CONSTRUCTORS \
+	GumshoeVR_Source_VRProj_VRCharacterPrototype_h_12_PRIVATE_PROPERTY_OFFSET \
+	GumshoeVR_Source_VRProj_VRCharacterPrototype_h_12_RPC_WRAPPERS \
+	GumshoeVR_Source_VRProj_VRCharacterPrototype_h_12_INCLASS \
+	GumshoeVR_Source_VRProj_VRCharacterPrototype_h_12_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_12_GENERATED_BODY \
+#define GumshoeVR_Source_VRProj_VRCharacterPrototype_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_12_PRIVATE_PROPERTY_OFFSET \
-	VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_12_INCLASS_NO_PURE_DECLS \
-	VRProj_4_18_Source_VRProj_VRCharacterPrototype_h_12_ENHANCED_CONSTRUCTORS \
+	GumshoeVR_Source_VRProj_VRCharacterPrototype_h_12_PRIVATE_PROPERTY_OFFSET \
+	GumshoeVR_Source_VRProj_VRCharacterPrototype_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	GumshoeVR_Source_VRProj_VRCharacterPrototype_h_12_INCLASS_NO_PURE_DECLS \
+	GumshoeVR_Source_VRProj_VRCharacterPrototype_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID VRProj_4_18_Source_VRProj_VRCharacterPrototype_h
+#define CURRENT_FILE_ID GumshoeVR_Source_VRProj_VRCharacterPrototype_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

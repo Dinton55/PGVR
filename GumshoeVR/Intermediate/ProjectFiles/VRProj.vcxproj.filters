@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\VRProj.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{9478A814-E80E-4A75-9A7B-D39E3D31BCA4}</UniqueIdentifier>
+			<UniqueIdentifier>{3592A075-2153-4E8E-9430-747672E4CA5A}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\VRProj.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{7DB8F913-F531-4C1F-8B1D-AF0860509065}</UniqueIdentifier>
+			<UniqueIdentifier>{05197376-7CEA-4D4A-BF06-220272EF759D}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -34,7 +34,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\VRProj">
-			<UniqueIdentifier>{83E7BFDA-BD7A-4DF0-80D7-44C3568FFEA4}</UniqueIdentifier>
+			<UniqueIdentifier>{8AF2D69C-3420-4EB1-8D89-D9EE88389886}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\VRProj\GameModePrototype.cpp">
 			<Filter>Source\VRProj</Filter>

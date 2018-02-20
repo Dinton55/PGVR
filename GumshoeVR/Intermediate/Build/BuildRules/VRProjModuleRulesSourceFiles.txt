@@ -1,3 +1,3 @@
-C:\Users\Andrew\Desktop\VRProj Main\Source\VRProj\VRProj.Build.cs
-C:\Users\Andrew\Desktop\VRProj Main\Source\VRProj.Target.cs
-C:\Users\Andrew\Desktop\VRProj Main\Source\VRProjEditor.Target.cs
+C:\Users\Jay\Desktop\PGVR\PGVR\GumshoeVR\Source\VRProj\VRProj.Build.cs
+C:\Users\Jay\Desktop\PGVR\PGVR\GumshoeVR\Source\VRProj.Target.cs
+C:\Users\Jay\Desktop\PGVR\PGVR\GumshoeVR\Source\VRProjEditor.Target.cs
