@@ -1,7 +1,7 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 3/1/2018, 11:20:36
+      Time of this report: 3/6/2018, 15:27:30
              Machine name: AMTX206-01
                Machine Id: {41B81659-DD48-4816-8C46-18E3DC303884}
          Operating System: Windows 10 Enterprise 64-bit (10.0, Build 15063) (15063.rs2_release.170317-1834)
@@ -12,7 +12,7 @@ System Information
                 Processor: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz (8 CPUs), ~3.4GHz
                    Memory: 16384MB RAM
       Available OS Memory: 16302MB RAM
-                Page File: 8997MB used, 9736MB available
+                Page File: 8991MB used, 9741MB available
               Windows Dir: C:\WINDOWS
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -144,7 +144,7 @@ Sound Devices
 -------------
             Description: Speakers (Realtek High Definition Audio)
  Default Sound Playback: Yes
- Default Voice Playback: Yes
+ Default Voice Playback: No
             Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0887&SUBSYS_104386D4&REV_1003
         Manufacturer ID: 1
              Product ID: 100
@@ -192,9 +192,9 @@ Static/Strm HW Mix Bufs: 1, 0
    I3DL2(tm) Listen/Src: No, No
 Sensaura(tm) ZoomFX(tm): No
 
-            Description: HTC-VIVE-0 (NVIDIA High Definition Audio)
+            Description: HTC-VIVE-4 (NVIDIA High Definition Audio)
  Default Sound Playback: No
- Default Voice Playback: No
+ Default Voice Playback: Yes
             Hardware ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_0083&SUBSYS_196E119D&REV_1001
         Manufacturer ID: 1
              Product ID: 100
@@ -272,10 +272,22 @@ Vendor/Product ID: n/a
 Vendor/Product ID: n/a
         FF Driver: n/a
 
+      Device Name: Valve
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x28DE, 0x2012
+        FF Driver: n/a
+
       Device Name: Lighthouse FPGA RX
          Attached: 1
     Controller ID: 0x0
 Vendor/Product ID: 0x28DE, 0x2000
+        FF Driver: n/a
+
+      Device Name: Valve
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x28DE, 0x2012
         FF Driver: n/a
 
       Device Name: USB Audio Device
@@ -296,6 +308,24 @@ Vendor/Product ID: 0x0BB4, 0x2C87
 Vendor/Product ID: 0x28DE, 0x2000
         FF Driver: n/a
 
+      Device Name: IMU
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x28DE, 0x2012
+        FF Driver: n/a
+
+      Device Name: IMU
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x28DE, 0x2012
+        FF Driver: n/a
+
+      Device Name: Optical
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x28DE, 0x2012
+        FF Driver: n/a
+
       Device Name: Watchman Dongle
          Attached: 1
     Controller ID: 0x0
@@ -306,6 +336,12 @@ Vendor/Product ID: 0x28DE, 0x2101
          Attached: 1
     Controller ID: 0x0
 Vendor/Product ID: 0x28DE, 0x2101
+        FF Driver: n/a
+
+      Device Name: Optical
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x28DE, 0x2012
         FF Driver: n/a
 
 Poll w/ Interrupt: No
@@ -319,22 +355,6 @@ USB Devices
 | Service: USBHUB3
 | Driver: USBHUB3.SYS, 9/18/2017 23:09:42, 554400 bytes
 | 
-+-+ USB Input Device
-| | Vendor/Product ID: 0x0461, 0x4D22
-| | Location: Port_#0004.Hub_#0001
-| | Matching Device ID: USB\Class_03&SubClass_01
-| | Service: HidUsb
-| | Driver: hidusb.sys, 3/18/2017 20:56:35, 40960 bytes
-| | Driver: hidclass.sys, 3/18/2017 20:56:35, 180736 bytes
-| | Driver: hidparse.sys, 3/18/2017 20:56:35, 40960 bytes
-| | 
-| +-+ HID-compliant mouse
-| | | Vendor/Product ID: 0x0461, 0x4D22
-| | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
-| | | Service: mouhid
-| | | Driver: mouhid.sys, 3/18/2017 20:56:35, 33280 bytes
-| | | Driver: mouclass.sys, 3/18/2017 20:56:35, 60320 bytes
-| | 
 +-+ USB Input Device
 | | Vendor/Product ID: 0x04F2, 0x0116
 | | Location: Port_#0003.Hub_#0001
@@ -350,6 +370,22 @@ USB Devices
 | | | Service: kbdhid
 | | | Driver: kbdhid.sys, 3/18/2017 20:56:35, 40448 bytes
 | | | Driver: kbdclass.sys, 3/18/2017 20:56:35, 64416 bytes
+| | 
++-+ USB Input Device
+| | Vendor/Product ID: 0x0461, 0x4D22
+| | Location: Port_#0004.Hub_#0001
+| | Matching Device ID: USB\Class_03&SubClass_01
+| | Service: HidUsb
+| | Driver: hidusb.sys, 3/18/2017 20:56:35, 40960 bytes
+| | Driver: hidclass.sys, 3/18/2017 20:56:35, 180736 bytes
+| | Driver: hidparse.sys, 3/18/2017 20:56:35, 40960 bytes
+| | 
+| +-+ HID-compliant mouse
+| | | Vendor/Product ID: 0x0461, 0x4D22
+| | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
+| | | Service: mouhid
+| | | Driver: mouhid.sys, 3/18/2017 20:56:35, 33280 bytes
+| | | Driver: mouclass.sys, 3/18/2017 20:56:35, 60320 bytes
 
 ----------------
 Gameport Devices
@@ -363,13 +399,13 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 61.7 GB
+ Free Space: 62.7 GB
 Total Space: 476.0 GB
 File System: NTFS
       Model: HFS500G32TND-3112A
 
       Drive: D:
- Free Space: 811.3 GB
+ Free Space: 807.0 GB
 Total Space: 953.9 GB
 File System: NTFS
       Model: WDC WD10EZRX-00D8PB0
@@ -675,10 +711,10 @@ Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0
 Default DirectSound Device,0x00800000,1,0,quartz.dll,10.00.15063.0674
 Default WaveOut Device,0x00200000,1,0,quartz.dll,10.00.15063.0674
 DirectSound: Speakers (2- USB Audio Device),0x00200000,1,0,quartz.dll,10.00.15063.0674
+DirectSound: HTC-VIVE-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
 DirectSound: Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
-DirectSound: HTC-VIVE-0 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
 Speakers (2- USB Audio Device),0x00200000,1,0,quartz.dll,10.00.15063.0674
-HTC-VIVE-0 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
+HTC-VIVE-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
 
 
 ----------------------------

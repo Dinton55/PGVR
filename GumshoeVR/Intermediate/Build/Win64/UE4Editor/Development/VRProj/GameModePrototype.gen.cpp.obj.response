@@ -23,9 +23,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source"
-/I C:\Users\Jay\Desktop\PGVR\PGVR\GumshoeVR\Source
-/I C:\Users\Jay\Desktop\PGVR\PGVR\GumshoeVR\Intermediate\Build\Win64\UE4Editor\Inc\VRProj
-/I C:\Users\Jay\Desktop\PGVR\PGVR\GumshoeVR\Source\VRProj
+/I D:\GitHub\PGVR\GumshoeVR\Source
+/I D:\GitHub\PGVR\GumshoeVR\Intermediate\Build\Win64\UE4Editor\Inc\VRProj
+/I D:\GitHub\PGVR\GumshoeVR\Source\VRProj
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Async"
@@ -358,9 +358,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Jay\Desktop\PGVR\PGVR\GumshoeVR\Intermediate\Build\Win64\UE4Editor\Inc\VRProj\GameModePrototype.gen.cpp"
-/FI"C:\Users\Jay\Desktop\PGVR\PGVR\GumshoeVR\Intermediate\Build\Win64\UE4Editor\Development\VRProj\Definitions.VRProj.h"
-/Fo"C:\Users\Jay\Desktop\PGVR\PGVR\GumshoeVR\Intermediate\Build\Win64\UE4Editor\Development\VRProj\GameModePrototype.gen.cpp.obj"
+"D:\GitHub\PGVR\GumshoeVR\Intermediate\Build\Win64\UE4Editor\Inc\VRProj\GameModePrototype.gen.cpp"
+/FI"D:\GitHub\PGVR\GumshoeVR\Intermediate\Build\Win64\UE4Editor\Development\VRProj\Definitions.VRProj.h"
+/Fo"D:\GitHub\PGVR\GumshoeVR\Intermediate\Build\Win64\UE4Editor\Development\VRProj\GameModePrototype.gen.cpp.obj"
 /TP
 /GR-
 /W4
