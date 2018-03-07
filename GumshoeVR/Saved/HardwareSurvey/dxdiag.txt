@@ -1,7 +1,7 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 3/6/2018, 15:27:30
+      Time of this report: 3/7/2018, 14:09:23
              Machine name: AMTX206-01
                Machine Id: {41B81659-DD48-4816-8C46-18E3DC303884}
          Operating System: Windows 10 Enterprise 64-bit (10.0, Build 15063) (15063.rs2_release.170317-1834)
@@ -12,7 +12,7 @@ System Information
                 Processor: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz (8 CPUs), ~3.4GHz
                    Memory: 16384MB RAM
       Available OS Memory: 16302MB RAM
-                Page File: 8991MB used, 9741MB available
+                Page File: 7487MB used, 11245MB available
               Windows Dir: C:\WINDOWS
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -29,8 +29,6 @@ DxDiag Notes
 ------------
       Display Tab 1: No problems found.
         Sound Tab 1: No problems found.
-        Sound Tab 2: No problems found.
-        Sound Tab 3: No problems found.
           Input Tab: No problems found.
 
 --------------------
@@ -144,7 +142,7 @@ Sound Devices
 -------------
             Description: Speakers (Realtek High Definition Audio)
  Default Sound Playback: Yes
- Default Voice Playback: No
+ Default Voice Playback: Yes
             Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0887&SUBSYS_104386D4&REV_1003
         Manufacturer ID: 1
              Product ID: 100
@@ -167,96 +165,13 @@ Static/Strm HW Mix Bufs: 1, 0
    I3DL2(tm) Listen/Src: No, No
 Sensaura(tm) ZoomFX(tm): No
 
-            Description: Speakers (2- USB Audio Device)
- Default Sound Playback: No
- Default Voice Playback: No
-            Hardware ID: USB\VID_0D8C&PID_0012&REV_0100&MI_00
-        Manufacturer ID: 65535
-             Product ID: 65535
-                   Type: WDM
-            Driver Name: USBAUDIO.sys
-         Driver Version: 10.00.15063.0000 (English)
-      Driver Attributes: Final Retail
-            WHQL Logo'd: Yes
-          Date and Size: 27/07/2017 00:00:00, 134656 bytes
-            Other Files: 
-        Driver Provider: Microsoft
-         HW Accel Level: Basic
-              Cap Flags: 0xF1F
-    Min/Max Sample Rate: 100, 200000
-Static/Strm HW Mix Bufs: 1, 0
- Static/Strm HW 3D Bufs: 0, 0
-              HW Memory: 0
-       Voice Management: No
- EAX(tm) 2.0 Listen/Src: No, No
-   I3DL2(tm) Listen/Src: No, No
-Sensaura(tm) ZoomFX(tm): No
-
-            Description: HTC-VIVE-4 (NVIDIA High Definition Audio)
- Default Sound Playback: No
- Default Voice Playback: Yes
-            Hardware ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_0083&SUBSYS_196E119D&REV_1001
-        Manufacturer ID: 1
-             Product ID: 100
-                   Type: WDM
-            Driver Name: nvhda64v.sys
-         Driver Version: 1.03.0034.0027 (English)
-      Driver Attributes: Final Retail
-            WHQL Logo'd: Yes
-          Date and Size: 18/07/2017 00:00:00, 227416 bytes
-            Other Files: 
-        Driver Provider: NVIDIA Corporation
-         HW Accel Level: Basic
-              Cap Flags: 0xF1F
-    Min/Max Sample Rate: 100, 200000
-Static/Strm HW Mix Bufs: 1, 0
- Static/Strm HW 3D Bufs: 0, 0
-              HW Memory: 0
-       Voice Management: No
- EAX(tm) 2.0 Listen/Src: No, No
-   I3DL2(tm) Listen/Src: No, No
-Sensaura(tm) ZoomFX(tm): No
-
 ---------------------
 Sound Capture Devices
 ---------------------
-            Description: Microphone (2- USB Audio Device)
-  Default Sound Capture: Yes
-  Default Voice Capture: Yes
-            Driver Name: USBAUDIO.sys
-         Driver Version: 10.00.15063.0000 (English)
-      Driver Attributes: Final Retail
-          Date and Size: 3/18/2017 20:56:20, 134656 bytes
-              Cap Flags: 0x1
-           Format Flags: 0xFFFFF
-
 ---------------------
 Video Capture Devices
-Number of Devices: 1
+Number of Devices: 0
 ---------------------
-           FriendlyName: HTC Vive
-               Location: n/a
-           SymbolicLink: \\?\usb#vid_0bb4&pid_2c87&mi_00#8&8c9a809&0&0000#{e5323777-f976-4f5b-9b55-b94699c46e44}\global
-           Manufacturer: Microsoft
-             HardwareID: USB\VID_0BB4&PID_2C87&REV_0100&MI_00,USB\VID_0BB4&PID_2C87&MI_00
-             DriverDesc: USB Video Device
-         DriverProvider: Microsoft
-          DriverVersion: 10.0.15063.447
-      DriverDateEnglish: 6/21/2006 00:00:00
-    DriverDateLocalized: 21/06/2006 00:00:00
-                Service: usbvideo
-                  Class: Image
-          DevNodeStatus: 180200A[DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER]
-            ContainerId: {EC7FD97A-EF99-11E7-9C23-806E6F6E6963}
-            ProblemCode: No Problem
-  BusReportedDeviceDesc: HTC Vive
-                 Parent: USB\VID_0BB4&PID_2C87\7&286e00c&0&2
-      DriverProblemDesc: n/a
-           UpperFilters: n/a
-           LowerFilters: n/a
-                  Stack: \Driver\ksthunk,\Driver\usbvideo,\Driver\usbccgp
-      ContainerCategory: Imaging
-
 -------------------
 DirectInput Devices
 -------------------
@@ -278,64 +193,10 @@ Vendor/Product ID: n/a
 Vendor/Product ID: 0x28DE, 0x2012
         FF Driver: n/a
 
-      Device Name: Lighthouse FPGA RX
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x28DE, 0x2000
-        FF Driver: n/a
-
-      Device Name: Valve
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x28DE, 0x2012
-        FF Driver: n/a
-
-      Device Name: USB Audio Device
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x0D8C, 0x0012
-        FF Driver: n/a
-
-      Device Name: HTC Vive
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x0BB4, 0x2C87
-        FF Driver: n/a
-
-      Device Name: HID
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x28DE, 0x2000
-        FF Driver: n/a
-
       Device Name: IMU
          Attached: 1
     Controller ID: 0x0
 Vendor/Product ID: 0x28DE, 0x2012
-        FF Driver: n/a
-
-      Device Name: IMU
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x28DE, 0x2012
-        FF Driver: n/a
-
-      Device Name: Optical
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x28DE, 0x2012
-        FF Driver: n/a
-
-      Device Name: Watchman Dongle
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x28DE, 0x2101
-        FF Driver: n/a
-
-      Device Name: Watchman Dongle
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x28DE, 0x2101
         FF Driver: n/a
 
       Device Name: Optical
@@ -399,13 +260,13 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 62.7 GB
+ Free Space: 58.5 GB
 Total Space: 476.0 GB
 File System: NTFS
       Model: HFS500G32TND-3112A
 
       Drive: D:
- Free Space: 807.0 GB
+ Free Space: 809.8 GB
 Total Space: 953.9 GB
 File System: NTFS
       Model: WDC WD10EZRX-00D8PB0
@@ -655,9 +516,6 @@ CCITT A-Law,0x00200000,1,1,quartz.dll,10.00.15063.0674
 CCITT u-Law,0x00200000,1,1,quartz.dll,10.00.15063.0674
 MPEG Layer-3,0x00200000,1,1,quartz.dll,10.00.15063.0674
 
-Audio Capture Sources:
-Microphone (2- USB Audio Device),0x00200000,0,0,qcap.dll,10.00.15063.0000
-
 PBDA CP Filters:
 PBDA DTFilter,0x00600000,1,1,CPFilters.dll,10.00.15063.0000
 PBDA ETFilter,0x00200000,0,0,CPFilters.dll,10.00.15063.0000
@@ -668,16 +526,11 @@ Default MidiOut Device,0x00800000,1,0,quartz.dll,10.00.15063.0674
 Microsoft GS Wavetable Synth,0x00200000,1,0,quartz.dll,10.00.15063.0674
 
 WDM Streaming Capture Devices:
-HTC Vive,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
-,0x00000000,0,0,,
 Realtek HD Audio Line input,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
 Realtek HD Audio Mic input,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
 Realtek HD Audio Stereo input,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
-USB Audio Device,0x00200000,2,2,ksproxy.ax,10.00.15063.0000
 
 WDM Streaming Rendering Devices:
-,0x00000000,0,0,,
-USB Audio Device,0x00200000,2,2,ksproxy.ax,10.00.15063.0000
 Realtek HD Audio output,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
 
 BDA Network Providers:
@@ -686,9 +539,6 @@ Microsoft DVBC Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.15063.0000
 Microsoft DVBS Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.15063.0000
 Microsoft DVBT Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.15063.0000
 Microsoft Network Provider,0x00200000,0,1,MSNP.ax,10.00.15063.0000
-
-Video Capture Sources:
-HTC Vive,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
 
 Multi-Instance Capable VBI Codecs:
 VBI Codec,0x00600000,1,4,VBICodec.ax,10.00.15063.0000
@@ -710,11 +560,7 @@ Audio Renderers:
 Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
 Default DirectSound Device,0x00800000,1,0,quartz.dll,10.00.15063.0674
 Default WaveOut Device,0x00200000,1,0,quartz.dll,10.00.15063.0674
-DirectSound: Speakers (2- USB Audio Device),0x00200000,1,0,quartz.dll,10.00.15063.0674
-DirectSound: HTC-VIVE-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
 DirectSound: Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
-Speakers (2- USB Audio Device),0x00200000,1,0,quartz.dll,10.00.15063.0674
-HTC-VIVE-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
 
 
 ----------------------------

@@ -1,0 +1,1572 @@
+﻿Log file open, 03/07/18 14:26:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: VRProj
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(999338862) SRandInit(999338862).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.167250
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Binaries/Win64/UE4Editor-VRProj.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.07-14.26.34:507][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.07-14.26.34:507][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.07-14.26.34:519][  0]LogInit: Computer: AMTX206-01
+[2018.03.07-14.26.34:519][  0]LogInit: User: at9amt
+[2018.03.07-14.26.34:519][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.07-14.26.34:519][  0]LogInit: High frequency timer resolution =3.328128 MHz
+[2018.03.07-14.26.34:520][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.07-14.26.34:520][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.07-14.26.34:520][  0]LogMemory: Process Physical Memory: 273.89 MB used, 273.89 MB peak
+[2018.03.07-14.26.34:520][  0]LogMemory: Process Virtual Memory: 273.85 MB used, 273.85 MB peak
+[2018.03.07-14.26.34:520][  0]LogMemory: Physical Memory: 4457.89 MB used,  11843.25 MB free, 16301.14 MB total
+[2018.03.07-14.26.34:520][  0]LogMemory: Virtual Memory: 648.31 MB used,  11843.25 MB free, 134217728.00 MB total
+[2018.03.07-14.26.34:661][  0]LogInit: Using OS detected language (en-GB).
+[2018.03.07-14.26.34:661][  0]LogInit: Using OS detected locale (en-GB).
+[2018.03.07-14.26.34:664][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.03.07-14.26.35:113][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.07-14.26.35:367][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.07-14.26.35:407][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.03.07-14.26.35:407][  0]LogD3D11RHI:       8085/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.07-14.26.35:408][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.07-14.26.35:409][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.07-14.26.35:409][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.07-14.26.35:415][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.07-14.26.35:415][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.07-14.26.35:415][  0]LogWindows: EnumDisplayDevices:
+[2018.03.07-14.26.35:415][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.03.07-14.26.35:416][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.03.07-14.26.35:416][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.03.07-14.26.35:416][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.03.07-14.26.35:416][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.03.07-14.26.35:416][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.03.07-14.26.35:416][  0]LogD3D11RHI:   Driver Version: 384.94 (internal:22.21.13.8494, unified:384.94)
+[2018.03.07-14.26.35:416][  0]LogD3D11RHI:      Driver Date: 7-18-2017
+[2018.03.07-14.26.35:416][  0]LogRHI: Texture pool is 5660 MB (70% of 8085 MB)
+[2018.03.07-14.26.35:447][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.07-14.26.35:458][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.07-14.26.35:459][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Intermediate/Shaders/WorkingDirectory/9852/).
+[2018.03.07-14.26.35:460][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/at9amt/AppData/Local/Temp/UnrealShaderWorkingDir/ACEA58F14AC2E1B451ED149A4959AEE4/'.
+[2018.03.07-14.26.35:460][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.07-14.26.36:445][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.07-14.26.36:496][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.07-14.26.36:552][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.07-14.26.36:606][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.07-14.26.36:659][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.07-14.26.36:711][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.07-14.26.36:764][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.07-14.26.36:817][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.07-14.26.36:861][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.07-14.26.36:915][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.07-14.26.36:964][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.07-14.26.37:016][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.07-14.26.37:069][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.07-14.26.37:123][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.07-14.26.37:225][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.07-14.26.37:225][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.07-14.26.37:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.07-14.26.37:316][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.07-14.26.37:413][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.07-14.26.37:442][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.07-14.26.37:494][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.07-14.26.37:546][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.07-14.26.37:597][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.07-14.26.37:649][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.07-14.26.37:649][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.07-14.26.38:118][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.07-14.26.38:212][  0]LogDerivedDataCache: Loaded boot cache 0.09s 79MB C:/Users/at9amt/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.07-14.26.38:212][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/at9amt/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.07-14.26.38:212][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.07-14.26.38:212][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.07-14.26.38:212][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.07-14.26.38:212][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.07-14.26.38:228][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.07-14.26.38:241][  0]LogDerivedDataCache: Using Local data cache path C:/Users/at9amt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.07-14.26.38:253][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.07-14.26.38:253][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.07-14.26.38:254][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.07-14.26.38:254][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.07-14.26.38:627][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.07-14.26.38:963][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.07-14.26.39:004][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.07-14.26.39:004][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.07-14.26.39:004][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.07-14.26.39:004][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.07-14.26.39:004][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.07-14.26.39:029][  0]LogNetVersion: VRProj , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4015886109)
+[2018.03.07-14.26.39:203][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2018.03.07-14.26.39:718][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.063341 seconds
+[2018.03.07-14.26.39:723][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.07-14.26.39:724][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.03.07-14.26.39:724][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.07-14.26.39:777][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.07-14.26.42:489][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.07-14.26.42:528][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.07-14.26.43:015][  0]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. LightComp LightComponent
+[2018.03.07-14.26.43:341][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.326 s
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: 
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp] [Line: 2190]
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. LightComp LightComponent
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: Stack: 
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x00000000AB292786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x00000000AB03123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x00000000AB04B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x00000000AABCF64B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x00000000AABCD519 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x00000000AABD0191 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x00000000AAB98A79 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x00000000AAAE3EC4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x000000008EA42962 UE4Editor-VRProj.dll!AInteractablePrototype::AInteractablePrototype() [c:\users\at9amt\documents\pgvr\gumshoevr\source\vrproj\interactableprototype.cpp:19]
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x00000000AA9605CD UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x00000000AABD91B0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x00000000AABBB41F UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x00000000AA962547 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x00000000AAECE6C0 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x00000000AB122282 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x00000000A7CDF60D UE4Editor-Projects.dll!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x00000000A7CDF91E UE4Editor-Projects.dll!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x000000006BF37F71 UE4Editor.exe!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x000000006BF3C4EC UE4Editor.exe!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x000000006BF3525A UE4Editor.exe!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x000000006BF354AA UE4Editor.exe!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x000000006BF42379 UE4Editor.exe!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x000000006BF43D57 UE4Editor.exe!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x00000000042A2774 KERNEL32.DLL!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: [Callstack] 0x0000000006960D51 ntdll.dll!UnknownFunction []
+[2018.03.07-14.26.43:341][  0]LogOutputDevice: Error: 
+[2018.03.07-14.26.43:346][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2018.03.07-14.26.43:525][  0]LogStats:                    SendNewReport -  0.179 s
+[2018.03.07-14.26.43:525][  0]LogStats:             FDebug::EnsureFailed -  0.510 s
+[2018.03.07-14.26.43:526][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: 
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: Ensure condition failed: AttachmentRules.LocationRule == EAttachmentRule::KeepRelative && AttachmentRules.RotationRule == EAttachmentRule::KeepRelative && AttachmentRules.ScaleRule == EAttachmentRule::KeepRelative [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\Components\SceneComponent.cpp] [Line: 1670]
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: AttachToComponent when called from a constructor is only setting up attachment and will always be treated as KeepRelative. Consider calling SetupAttachment directly instead.
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: Stack: 
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x00000000AB292786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x00000000AB03123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x00000000AB04B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x00000000A849D468 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x000000008EA43D5E UE4Editor-VRProj.dll!AVRCharacterPrototype::AVRCharacterPrototype() [c:\users\at9amt\documents\pgvr\gumshoevr\source\vrproj\vrcharacterprototype.cpp:25]
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x00000000AA9605CD UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x00000000AABD91B0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x00000000AABBB41F UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x00000000AA962547 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x00000000AAECE6C0 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x00000000AB122282 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x00000000A7CDF60D UE4Editor-Projects.dll!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x00000000A7CDF91E UE4Editor-Projects.dll!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x000000006BF37F71 UE4Editor.exe!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x000000006BF3C4EC UE4Editor.exe!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x000000006BF3525A UE4Editor.exe!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x000000006BF354AA UE4Editor.exe!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x000000006BF42379 UE4Editor.exe!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x000000006BF43D57 UE4Editor.exe!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x00000000042A2774 KERNEL32.DLL!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: [Callstack] 0x0000000006960D51 ntdll.dll!UnknownFunction []
+[2018.03.07-14.26.43:526][  0]LogOutputDevice: Error: 
+[2018.03.07-14.26.43:527][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2018.03.07-14.26.43:710][  0]LogStats:                    SendNewReport -  0.183 s
+[2018.03.07-14.26.43:710][  0]LogStats:             FDebug::EnsureFailed -  0.185 s
+[2018.03.07-14.26.43:957][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.07-14.26.44:409][  0]SourceControl: Source control is disabled
+[2018.03.07-14.26.44:409][  0]SourceControl: Source control is disabled
+[2018.03.07-14.26.44:463][  0]SourceControl: Source control is disabled
+[2018.03.07-14.26.44:515][  0]SourceControl: Source control is disabled
+[2018.03.07-14.26.45:301][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.07-14.26.45:557][  0]LogOcInput: OculusInput pre-init called
+[2018.03.07-14.26.45:817][  0]LogEngine: Initializing Engine...
+[2018.03.07-14.26.46:373][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-DADB35DE
+[2018.03.07-14.26.46:585][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.07-14.26.46:585][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.07-14.26.46:701][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.07-14.26.46:710][  0]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.07-14.26.46:719][  0]LogInit: FAudioDevice initialized.
+[2018.03.07-14.26.46:805][  0]LogDerivedDataCache: Saved boot cache 0.09s 79MB C:/Users/at9amt/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.07-14.26.46:819][  0]LogInit: Texture streaming: Enabled
+[2018.03.07-14.26.46:911][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.07-14.26.47:025][  0]LogInit: Transaction tracking system initialized
+[2018.03.07-14.26.47:299][  0]BlueprintLog: New page: Editor Load
+[2018.03.07-14.26.48:058][  0]LocalizationService: Localization service is disabled
+[2018.03.07-14.26.48:688][  0]LogConsoleResponse: Display: 
+[2018.03.07-14.26.48:854][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.07-14.26.48:854][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.07-14.26.48:854][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.07-14.26.49:845][  0]LogFileCache: Scanning file cache for directory 'C:/Users/at9amt/Documents/PGVR/GumshoeVR/Content/' took 0.02s
+[2018.03.07-14.26.49:886][  0]SourceControl: Source control is disabled
+[2018.03.07-14.26.49:886][  0]Cmd: MAP LOAD FILE="../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/MainMenu/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.07-14.26.49:887][  0]LightingResults: New page: Lighting Build
+[2018.03.07-14.26.49:923][  0]MapCheck: New page: Map Check
+[2018.03.07-14.26.49:923][  0]LightingResults: New page: Lighting Build
+[2018.03.07-14.26.50:582][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.03.07-14.26.50:629][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.07-14.26.50:642][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.07-14.26.50:698][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.028ms to complete.
+[2018.03.07-14.26.50:698][  0]LogFileHelpers: Loading map 'MainMenu' took 0.812
+[2018.03.07-14.26.50:755][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.07-14.26.50:838][  0]LogCollectionManager: Loaded 0 collections in 0.001580 seconds
+[2018.03.07-14.26.50:910][  0]LogFileCache: Scanning file cache for directory 'C:/Users/at9amt/Documents/PGVR/GumshoeVR/Saved/Collections/' took 0.01s
+[2018.03.07-14.26.50:910][  0]LogFileCache: Scanning file cache for directory 'C:/Users/at9amt/Documents/PGVR/GumshoeVR/Content/Developers/at9amt/Collections/' took 0.01s
+[2018.03.07-14.26.50:910][  0]LogFileCache: Scanning file cache for directory 'C:/Users/at9amt/Documents/PGVR/GumshoeVR/Content/Collections/' took 0.01s
+[2018.03.07-14.26.50:910][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.03.07-14.26.50:918][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2366 classes and 521 folders.
+[2018.03.07-14.26.50:977][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.07-14.26.51:008][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.03.07-14.26.51:048][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.03.07-14.26.51:084][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.07-14.26.51:086][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.07-14.26.51:092][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.07-14.26.51:185][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 26 NumSamples 1 (Frame:1).
+[2018.03.07-14.26.51:375][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.03.07-14.26.51:375][  0]LogLoad: (Engine Initialization) Total time: 19.39 seconds
+[2018.03.07-14.26.51:375][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.07-14.26.51:375][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.07-14.26.51:375][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.07-14.26.51:420][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.07-14.26.51:465][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.07-14.26.51:488][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/at9amt/Documents/PGVR/GumshoeVR/Content/' took 0.09s
+[2018.03.07-14.26.51:512][  1]LogAssetRegistry: Asset discovery search completed in 12.3310 seconds
+[2018.03.07-14.26.51:514][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.07-14.26.51:514][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2018.03.07-14.26.58:732][639]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.07-14.26.59:474][639]LogLinker: Warning: Asset '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/SuperGrid/StarterPack/Materials/Functions/Basic/BreakSet.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.03.07-14.26.59:476][639]LogLinker: Warning: Asset '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/SuperGrid/StarterPack/Materials/Functions/Basic/MakeSet.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.03.07-14.26.59:478][639]LogLinker: Warning: Asset '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/SuperGrid/StarterPack/Materials/Functions/Basic/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.03.07-14.26.59:479][639]LogLinker: Warning: Asset '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Dye_SingleColor.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.03.07-14.26.59:481][639]LogLinker: Warning: Asset '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Tex_SimpleGrid.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.03.07-14.26.59:482][639]LogLinker: Warning: Asset '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.03.07-14.26.59:488][639]LogLinker: Warning: Asset '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/SuperGrid/StarterPack/Materials/Functions/UV/UV_SetupGrid.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.03.07-14.26.59:493][639]LogLinker: Warning: Asset '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_N.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.03.07-14.26.59:552][639]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.07-14.26.59:641][639]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.07-14.27.00:540][639]LogAIModule: Creating AISystem for world Apartment
+[2018.03.07-14.27.00:615][639]Cmd: MAP LOAD FILE="../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/Maps/Apartment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.07-14.27.00:615][639]LightingResults: New page: Lighting Build
+[2018.03.07-14.27.00:615][639]LoadErrors: New page: Loading map: Apartment.umap
+[2018.03.07-14.27.00:617][639]MapCheck: New page: Map Check
+[2018.03.07-14.27.00:617][639]LightingResults: New page: Lighting Build
+[2018.03.07-14.27.00:638][639]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Apartment.Apartment:PersistentLevel.AnsweringMachine_01_SM_Anim_2.SkeletalMeshComponent0'
+[2018.03.07-14.27.00:673][639]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.07-14.27.00:730][639]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.07-14.27.00:831][639]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.115ms to complete.
+[2018.03.07-14.27.00:833][639]LogFileHelpers: Loading map 'Apartment' took 0.219
+[2018.03.07-14.27.05:687][ 16]LogTemp: Repeating last play command: VR Preview
+[2018.03.07-14.27.05:944][ 16]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.27.05:946][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.07-14.27.05:950][ 16]PIE: New page: PIE session: Apartment (7 Mar 2018 14:27:05)
+[2018.03.07-14.27.05:950][ 16]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Apartment
+[2018.03.07-14.27.06:173][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.222624s)
+[2018.03.07-14.27.06:174][ 16]LogAIModule: Creating AISystem for world Apartment
+[2018.03.07-14.27.06:174][ 16]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2018.03.07-14.27.06:175][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Apartment.Apartment to /Game/Maps/UEDPIE_0_Apartment.Apartment (0.224453s)
+[2018.03.07-14.27.06:190][ 16]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.07-14.27.06:198][ 16]LogInit: FAudioDevice initialized.
+[2018.03.07-14.27.06:289][ 16]LogLoad: Game class is 'GameModePrototype'
+[2018.03.07-14.27.06:301][ 16]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.AnsweringMachine_01_SM_Anim_2.SkeletalMeshComponent0'
+[2018.03.07-14.27.06:307][ 16]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Apartment.Apartment up for play (max tick rate 0) at 2018.03.07-14.27.06
+[2018.03.07-14.27.06:314][ 16]LogWorld: Bringing up level for play took: 0.022734
+[2018.03.07-14.27.06:353][ 16]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.03.07-14.27.06:368][ 16]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Apartment 0.284
+[2018.03.07-14.27.06:368][ 16]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.27.06:927][ 17]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 10 NumSamples 1 (Frame:1).
+[2018.03.07-14.27.19:055][296]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.27.19:055][296]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.27.19:145][298]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.27.19:212][300]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.27.19:213][300]LogScript: Warning: Accessed None trying to read property HitComponentRight
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:204B
+[2018.03.07-14.27.19:213][300]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.27.19:547][315]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.27.19:682][321]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.27.19:726][323]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.27.19:837][328]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.27.19:838][328]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.27.19:838][328]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.27.21:444][389]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.27.21:444][389]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.27.21:492][391]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.27.21:492][391]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.27.22:340][429]LogScript: Warning: Attempted to access index 0 from array ComponentTags of length 0!
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:22CF
+[2018.03.07-14.27.22:340][429]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.27.29:683][635]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:619).
+[2018.03.07-14.27.29:723][635]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:619).
+[2018.03.07-14.27.29:819][637]LogScript: Warning: Attempted to access index 0 from array ComponentTags of length 0!
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:22CF
+[2018.03.07-14.27.29:819][637]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.27.31:164][667]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.27.31:165][667]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.27.31:297][670]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.27.32:187][690]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.27.32:736][703]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.27.32:903][707]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.27.32:947][708]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.27.33:128][712]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.27.33:354][717]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.27.33:624][723]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.27.33:799][727]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.27.33:937][730]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.27.33:985][731]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.27.34:114][734]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.27.34:564][744]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.27.34:744][744]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.27.36:222][864]LogEditorViewport: Clicking on Actor (LMB): Draw_01_BP_C (BP_Drawer2)
+[2018.03.07-14.28.02:411][927]LogSavePackage: Save=15.33ms
+[2018.03.07-14.28.02:412][927]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Saved/Draw_01_SMCC0D526147131DA4EBA039B484BAAC5E.tmp' to '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/Apartment/Geometry/Meshes/KitchenNew/Draw_01_SM.uasset'
+[2018.03.07-14.28.02:415][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/Apartment/Geometry/Meshes/KitchenNew/Draw_01_SM.uasset
+[2018.03.07-14.28.16:869][ 49]LogStaticMesh: Building static mesh Draw...
+[2018.03.07-14.28.16:886][ 49]LogStaticMesh: Built static mesh [0.02s] /Game/Apartment/Geometry/Meshes/Kitchen/Draw.Draw
+[2018.03.07-14.28.20:994][324]LogTemp: Repeating last play command: VR Preview
+[2018.03.07-14.28.21:016][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.28.21:016][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.07-14.28.21:016][324]PIE: New page: PIE session: Apartment (7 Mar 2018 14:28:21)
+[2018.03.07-14.28.21:016][324]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Apartment
+[2018.03.07-14.28.21:227][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.210593s)
+[2018.03.07-14.28.21:228][324]LogAIModule: Creating AISystem for world Apartment
+[2018.03.07-14.28.21:228][324]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2018.03.07-14.28.21:229][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Apartment.Apartment to /Game/Maps/UEDPIE_0_Apartment.Apartment (0.212404s)
+[2018.03.07-14.28.21:246][324]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.07-14.28.21:253][324]LogInit: FAudioDevice initialized.
+[2018.03.07-14.28.21:341][324]LogLoad: Game class is 'GameModePrototype'
+[2018.03.07-14.28.21:351][324]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.AnsweringMachine_01_SM_Anim_2.SkeletalMeshComponent0'
+[2018.03.07-14.28.21:357][324]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Apartment.Apartment up for play (max tick rate 0) at 2018.03.07-14.28.21
+[2018.03.07-14.28.21:359][324]LogWorld: Bringing up level for play took: 0.017428
+[2018.03.07-14.28.21:368][324]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Apartment 1.288
+[2018.03.07-14.28.21:369][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.28.33:669][676]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.33:669][676]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.33:669][676]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.33:755][680]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.33:890][686]LogScript: Warning: Accessed None trying to read property HitComponentRight
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:204B
+[2018.03.07-14.28.33:890][686]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.28.34:315][705]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.34:361][707]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.34:427][710]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.34:427][710]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.34:427][710]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.34:427][710]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.34:449][711]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.34:449][711]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.34:472][712]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.34:472][712]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.34:515][714]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.34:649][720]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.34:694][722]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.34:717][723]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.34:806][727]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.34:962][734]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.35:140][742]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.35:163][743]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.35:186][744]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.35:208][745]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.35:230][746]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.35:252][747]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.35:252][747]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.35:363][752]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.35:363][752]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.35:386][753]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.35:386][753]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.35:409][754]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.35:409][754]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.28.35:454][756]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.35:454][756]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.28.35:498][758]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.35:498][758]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.35:499][758]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.35:521][759]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.35:542][760]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.35:543][760]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.35:565][761]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.35:610][763]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.35:610][763]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.35:700][767]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.35:721][768]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.35:789][771]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.35:811][772]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.35:812][772]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.28.35:858][774]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.35:858][774]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.28.35:905][776]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.35:946][778]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.35:973][779]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.35:996][780]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.35:996][780]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.36:079][784]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.28.36:102][785]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.36:147][786]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.36:230][788]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.36:274][789]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.36:274][789]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.28.36:303][790]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.36:303][790]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.36:386][792]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.36:386][792]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.36:416][793]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.36:438][794]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.36:460][795]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.36:504][797]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.36:528][798]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.36:528][798]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.36:662][804]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.36:683][805]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.36:705][806]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.36:729][807]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.39:788][943]LogScript: Warning: Attempted to access index 0 from array ComponentTags of length 0!
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:22CF
+[2018.03.07-14.28.39:788][943]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.28.44:748][ 32]LogScript: Warning: Attempted to access index 0 from array ComponentTags of length 0!
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:22CF
+[2018.03.07-14.28.44:748][ 32]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.28.46:614][ 76]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.46:666][ 77]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.46:769][ 79]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.46:769][ 79]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.47:081][ 85]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.48:792][145]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.48:859][147]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.48:891][148]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.48:926][149]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.48:926][149]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.50:554][222]LogScript: Warning: Attempted to access index 0 from array ComponentTags of length 0!
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:22CF
+[2018.03.07-14.28.50:554][222]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.28.51:251][250]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.51:297][251]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.51:343][252]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.51:386][253]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.51:470][255]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.51:470][255]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.51:780][262]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.51:780][262]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.51:873][264]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.52:387][274]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.53:572][300]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.53:905][313]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.53:949][315]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.53:971][316]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.54:844][355]LogScript: Warning: Attempted to access index 0 from array ComponentTags of length 0!
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:22CF
+[2018.03.07-14.28.54:844][355]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.28.55:463][383]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:1059).
+[2018.03.07-14.28.55:494][383]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:1059).
+[2018.03.07-14.28.57:733][435]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.57:831][439]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.59:479][498]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.59:479][498]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.59:523][499]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.59:569][500]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.28.59:748][504]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.59:748][504]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.59:839][506]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.28.59:884][507]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.00:766][530]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.00:766][530]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.00:766][530]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.00:907][534]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.01:045][538]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.01:081][539]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.01:081][539]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.01:115][540]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.01:344][551]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.01:433][555]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.01:433][555]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.01:455][556]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.03:863][656]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.03:936][658]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.04:073][662]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.04:140][664]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.04:740][691]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.04:784][693]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.04:806][694]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.05:025][700]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.05:097][703]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.05:120][704]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.05:210][707]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.05:210][707]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.05:334][710]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.05:538][715]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.05:947][733]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.05:947][733]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.06:591][758]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.06:670][760]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.06:786][763]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.07:023][769]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.07:100][771]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.07:252][775]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.07:364][778]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.07:402][779]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.07:512][782]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.07:564][784]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.07:621][787]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.07:666][789]LogScript: Warning: Accessed None trying to read property HitComponentRight
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:204B
+[2018.03.07-14.29.07:666][789]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.29.07:687][790]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.08:023][805]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.08:135][810]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.08:224][814]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.08:247][815]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.08:381][821]LogScript: Warning: Accessed None trying to read property HitComponentRight
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:204B
+[2018.03.07-14.29.08:381][821]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.29.08:560][829]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.08:850][842]LogScript: Warning: Accessed None trying to read property HitComponentRight
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:204B
+[2018.03.07-14.29.08:850][842]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.29.08:917][845]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.09:029][850]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.09:051][851]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.09:297][862]LogScript: Warning: Accessed None trying to read property HitComponentRight
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:204B
+[2018.03.07-14.29.09:297][862]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.29.09:567][874]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.09:698][880]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.09:743][882]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.09:766][883]LogScript: Warning: Accessed None trying to read property HitComponentRight
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:204B
+[2018.03.07-14.29.09:766][883]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.29.09:767][883]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.09:989][893]LogScript: Warning: Accessed None trying to read property HitComponentRight
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:204B
+[2018.03.07-14.29.09:989][893]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.29.10:212][903]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.10:659][923]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.10:838][931]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.10:927][935]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.10:973][937]LogScript: Warning: Accessed None trying to read property HitComponentRight
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:204B
+[2018.03.07-14.29.10:973][937]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.29.11:463][959]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.11:865][977]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.12:022][984]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.12:044][985]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.12:089][987]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.12:178][991]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.12:803][ 19]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.12:870][ 22]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.12:870][ 22]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.12:915][ 24]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.12:916][ 24]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.12:938][ 25]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.12:961][ 26]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.13:049][ 30]LogScript: Warning: Accessed None trying to read property HitComponentRight
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:204B
+[2018.03.07-14.29.13:049][ 30]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.29.13:228][ 38]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.13:854][ 66]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.13:898][ 68]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.13:965][ 71]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.13:965][ 71]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.14:010][ 73]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.14:055][ 75]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.14:569][ 98]LogScript: Warning: Attempted to access index 0 from array ComponentTags of length 0!
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:22CF
+[2018.03.07-14.29.14:569][ 98]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.29.15:797][153]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.15:820][154]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.15:865][156]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.15:910][158]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.17:226][217]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.17:249][218]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.17:249][218]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.29.17:316][221]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.17:338][222]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.17:565][232]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.17:628][235]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.17:651][236]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.17:651][236]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.17:651][236]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.29.17:786][242]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.17:808][243]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.17:875][246]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.17:919][248]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.18:031][253]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.18:077][255]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.18:121][257]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.18:143][258]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.18:209][261]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.18:232][262]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.18:254][263]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.18:254][263]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.29.18:277][264]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.18:433][271]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.18:457][272]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.29.18:457][272]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.19:706][328]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.19:751][330]LogBlueprintUserMessages: [Draw_03_458] CAN BE GRABBED
+[2018.03.07-14.29.19:776][331]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.19:776][331]LogBlueprintUserMessages: [Draw_03_458] CANNOT BE GRABBED
+[2018.03.07-14.29.19:776][331]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.19:776][331]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.19:908][337]LogBlueprintUserMessages: [Draw_03_458] CAN BE GRABBED
+[2018.03.07-14.29.19:908][337]LogBlueprintUserMessages: [Draw_03_458] CAN BE GRABBED
+[2018.03.07-14.29.19:929][338]LogBlueprintUserMessages: [Draw_03_458] CAN BE GRABBED
+[2018.03.07-14.29.20:042][343]LogBlueprintUserMessages: [Draw_03_458] CAN BE GRABBED
+[2018.03.07-14.29.20:042][343]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.29.20:309][355]LogBlueprintUserMessages: [Draw_03_458] CANNOT BE GRABBED
+[2018.03.07-14.29.20:377][358]LogBlueprintUserMessages: [Draw_03_458] CANNOT BE GRABBED
+[2018.03.07-14.29.20:644][370]LogBlueprintUserMessages: [Draw_03_458] CANNOT BE GRABBED
+[2018.03.07-14.29.20:667][371]LogBlueprintUserMessages: [Draw_03_458] CANNOT BE GRABBED
+[2018.03.07-14.29.20:935][383]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.29.21:695][417]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.21:695][417]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.21:851][424]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.29.22:029][432]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.22:096][435]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.22:141][437]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.29.23:126][481]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.29.23:280][481]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.29.29:191][963]LogClass: Warning: Enum '/Game/ProtoVRHand/Blueprints/Example/Enum_Grip.Enum_Grip' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.03.07-14.29.29:256][963]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.03.07-14.29.29:927][963]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.03.07-14.29.30:056][963]LogSlate: Took 0.005024 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.07-14.29.30:282][964]LogSlate: Took 0.006011 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.07-14.30.57:883][ 28]Cmd: MODE GRID=0
+[2018.03.07-14.31.11:770][974]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.07-14.31.11:800][974]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.07-14.32.31:739][697]BlueprintLog: New page: Compile Draw_01_BP
+[2018.03.07-14.32.41:798][380]BlueprintLog: New page: Compile Draw_01_BP
+[2018.03.07-14.32.43:279][427]LogSavePackage: Save=72.79ms
+[2018.03.07-14.32.43:280][427]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Saved/Draw_01_BP48BAEF164D25DE4BFB4B378E90AA533F.tmp' to '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/Apartment/ApartmentBlueprints/Draw_01_BP.uasset'
+[2018.03.07-14.32.43:282][427]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/Apartment/ApartmentBlueprints/Draw_01_BP.uasset
+[2018.03.07-14.32.49:109][813]LogSavePackage: Save=62.44ms
+[2018.03.07-14.32.49:109][813]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Saved/Draw_01_BP314BFBFB4E70144F2B3047A2A2993897.tmp' to '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/Apartment/ApartmentBlueprints/Draw_01_BP.uasset'
+[2018.03.07-14.32.49:110][813]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/Apartment/ApartmentBlueprints/Draw_01_BP.uasset
+[2018.03.07-14.32.53:270][126]LogEditorViewport: Clicking on Actor (LMB): Draw_01_BP_C (BP_Drawer2)
+[2018.03.07-14.32.56:449][404]LogEditorViewport: Clicking on Actor (LMB): Draw_02_C (Draw_3)
+[2018.03.07-14.32.58:190][553]LogEditorViewport: Clicking on Actor (LMB): Draw_03_C (Draw_4)
+[2018.03.07-14.33.00:195][643]LogEditorViewport: Clicking on Actor (LMB): Draw_01_BP_C (BP_Drawer)
+[2018.03.07-14.33.02:543][724]LogEditorViewport: Clicking on Actor (LMB): Draw_02_C (Draw_02)
+[2018.03.07-14.33.03:997][786]LogEditorViewport: Clicking on Actor (LMB): Draw_01_BP_C (BP_Drawer)
+[2018.03.07-14.33.12:392][ 92]LogTemp: Repeating last play command: VR Preview
+[2018.03.07-14.33.12:416][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.33.12:416][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.07-14.33.12:416][ 92]PIE: New page: PIE session: Apartment (7 Mar 2018 14:33:12)
+[2018.03.07-14.33.12:416][ 92]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Apartment
+[2018.03.07-14.33.12:638][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.221923s)
+[2018.03.07-14.33.12:639][ 92]LogAIModule: Creating AISystem for world Apartment
+[2018.03.07-14.33.12:640][ 92]LogPlayLevel: PIE: World Init took: (0.001776s)
+[2018.03.07-14.33.12:641][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Apartment.Apartment to /Game/Maps/UEDPIE_0_Apartment.Apartment (0.224801s)
+[2018.03.07-14.33.12:665][ 92]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.07-14.33.12:671][ 92]LogInit: FAudioDevice initialized.
+[2018.03.07-14.33.12:763][ 92]LogLoad: Game class is 'GameModePrototype'
+[2018.03.07-14.33.12:773][ 92]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.AnsweringMachine_01_SM_Anim_2.SkeletalMeshComponent0'
+[2018.03.07-14.33.12:778][ 92]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Apartment.Apartment up for play (max tick rate 0) at 2018.03.07-14.33.12
+[2018.03.07-14.33.12:780][ 92]LogWorld: Bringing up level for play took: 0.016842
+[2018.03.07-14.33.12:796][ 92]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Apartment 0.725
+[2018.03.07-14.33.12:797][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.33.23:484][354]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.33.28:490][467]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.28:490][467]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.28:490][467]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.28:490][467]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.28:512][468]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.28:512][468]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.28:534][469]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.28:556][470]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.28:601][472]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.28:646][474]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.29:070][493]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.29:070][493]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.32:823][617]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.32:844][618]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.33:023][626]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.33:068][628]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.34:029][671]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.34:029][671]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.34:029][671]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.34:029][671]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.34:118][675]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.07-14.33.34:387][687]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.34:453][690]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.34:453][690]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.34:475][691]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.34:656][699]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.34:656][699]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.39:212][903]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.33.40:821][975]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.40:821][975]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.40:844][976]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.40:889][978]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.42:094][ 32]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.42:094][ 32]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.42:116][ 33]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.42:116][ 33]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.44:595][144]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.44:595][144]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.44:685][148]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.44:685][148]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.44:908][158]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.33.45:916][203]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.33.50:185][337]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.50:332][341]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.50:332][341]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.50:369][342]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.50:649][350]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.50:716][353]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.50:716][353]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.50:896][361]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.52:815][422]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.52:962][426]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.53:823][451]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.53:868][453]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.53:912][455]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.53:937][456]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.54:405][477]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.54:470][480]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.33.54:493][481]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.54:560][484]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.33.54:621][487]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:1395).
+[2018.03.07-14.33.54:648][487]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:1395).
+[2018.03.07-14.33.54:707][488]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.33.59:116][653]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.34.00:456][713]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.00:702][724]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.01:596][764]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.34.01:887][777]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.02:088][786]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.34.02:088][786]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.02:088][786]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.02:088][786]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.02:356][798]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.02:356][798]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.02:378][799]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.02:401][800]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.02:780][817]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.02:802][818]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.02:846][820]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.02:846][820]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.03:451][847]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.03:519][850]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.03:539][851]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.03:563][852]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.07:538][ 24]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.07:628][ 28]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.07:717][ 32]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.07:874][ 39]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.34.08:638][ 60]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.09:528][ 86]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.09:528][ 86]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.10:110][109]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.10:110][109]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.10:242][115]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.10:429][121]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.10:467][122]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.34.10:724][129]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.11:202][145]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.11:470][157]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.34.11:738][169]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.11:873][175]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.11:940][178]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.11:963][179]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.12:007][181]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.12:029][182]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.34.12:074][184]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.15:614][300]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.15:982][317]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.15:982][317]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.16:073][321]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.18:769][442]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:2350).
+[2018.03.07-14.34.18:789][442]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:2350).
+[2018.03.07-14.34.18:960][449]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.18:983][450]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.19:317][465]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.19:339][466]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.19:491][473]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.19:513][474]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.19:557][476]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.34.19:804][487]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.20:696][527]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.20:809][532]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.20:987][540]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.21:054][543]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.21:076][544]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.34.21:076][544]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.21:300][554]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.21:769][575]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.21:792][576]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.21:815][577]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.34.22:060][588]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.22:061][588]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.22:061][588]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.22:061][588]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.34.22:264][597]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.34.22:434][597]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.34.23:447][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenMiddle_02_SM8)
+[2018.03.07-14.35.31:953][ 87]LogSavePackage: Save=14.81ms
+[2018.03.07-14.35.31:953][ 87]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Saved/KitchenMiddle_02_SM0B63883C4FEE93F66F92C9BBD54D8FC5.tmp' to '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/Apartment/Geometry/Meshes/KitchenNew/KitchenMiddle_02_SM.uasset'
+[2018.03.07-14.35.31:955][ 87]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/Apartment/Geometry/Meshes/KitchenNew/KitchenMiddle_02_SM.uasset
+[2018.03.07-14.36.18:949][596]LogSavePackage: Save=5.91ms
+[2018.03.07-14.36.18:949][596]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Saved/KitchenMiddle_02_SM803C04E54DEE4659CF07DDAE446EB140.tmp' to '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/Apartment/Geometry/Meshes/KitchenNew/KitchenMiddle_02_SM.uasset'
+[2018.03.07-14.36.18:950][596]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/Apartment/Geometry/Meshes/KitchenNew/KitchenMiddle_02_SM.uasset
+[2018.03.07-14.36.24:818][ 35]LogTemp: Repeating last play command: VR Preview
+[2018.03.07-14.36.24:842][ 35]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.36.24:842][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.07-14.36.24:842][ 35]PIE: New page: PIE session: Apartment (7 Mar 2018 14:36:24)
+[2018.03.07-14.36.24:842][ 35]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Apartment
+[2018.03.07-14.36.25:040][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.197378s)
+[2018.03.07-14.36.25:041][ 35]LogAIModule: Creating AISystem for world Apartment
+[2018.03.07-14.36.25:041][ 35]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2018.03.07-14.36.25:041][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Apartment.Apartment to /Game/Maps/UEDPIE_0_Apartment.Apartment (0.198994s)
+[2018.03.07-14.36.25:072][ 35]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.07-14.36.25:079][ 35]LogInit: FAudioDevice initialized.
+[2018.03.07-14.36.25:168][ 35]LogLoad: Game class is 'GameModePrototype'
+[2018.03.07-14.36.25:179][ 35]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.AnsweringMachine_01_SM_Anim_2.SkeletalMeshComponent0'
+[2018.03.07-14.36.25:185][ 35]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Apartment.Apartment up for play (max tick rate 0) at 2018.03.07-14.36.25
+[2018.03.07-14.36.25:187][ 35]LogWorld: Bringing up level for play took: 0.018472
+[2018.03.07-14.36.25:197][ 35]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Apartment 1.128
+[2018.03.07-14.36.25:198][ 35]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.36.26:988][ 81]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:46).
+[2018.03.07-14.36.27:015][ 81]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:46).
+[2018.03.07-14.36.27:719][109]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.36.27:724][109]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:75).
+[2018.03.07-14.36.27:770][109]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:75).
+[2018.03.07-14.36.27:935][109]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.36.31:374][250]LogEditorViewport: Clicking on Actor (LMB): VR_Conroller_C (VR_Conroller)
+[2018.03.07-14.36.52:711][756]LogTemp: Repeating last play command: VR Preview
+[2018.03.07-14.36.52:734][756]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.36.52:734][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.07-14.36.52:734][756]PIE: New page: PIE session: Apartment (7 Mar 2018 14:36:52)
+[2018.03.07-14.36.52:734][756]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Apartment
+[2018.03.07-14.36.52:899][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.165165s)
+[2018.03.07-14.36.52:900][756]LogAIModule: Creating AISystem for world Apartment
+[2018.03.07-14.36.52:900][756]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2018.03.07-14.36.52:901][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Apartment.Apartment to /Game/Maps/UEDPIE_0_Apartment.Apartment (0.166797s)
+[2018.03.07-14.36.52:960][756]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.07-14.36.52:967][756]LogInit: FAudioDevice initialized.
+[2018.03.07-14.36.53:063][756]LogLoad: Game class is 'GameModePrototype'
+[2018.03.07-14.36.53:074][756]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.AnsweringMachine_01_SM_Anim_2.SkeletalMeshComponent0'
+[2018.03.07-14.36.53:080][756]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Apartment.Apartment up for play (max tick rate 0) at 2018.03.07-14.36.53
+[2018.03.07-14.36.53:082][756]LogWorld: Bringing up level for play took: 0.018356
+[2018.03.07-14.36.53:095][756]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Apartment 1.026
+[2018.03.07-14.36.53:096][756]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.36.58:673][913]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.37.02:668][ 12]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.02:668][ 12]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.02:668][ 12]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.03:156][ 26]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.04:943][ 94]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.04:943][ 94]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.07:831][207]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.07:942][212]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.07:943][212]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.07:943][212]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.37.08:166][222]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.08:501][237]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.08:680][245]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.37.09:104][264]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.10:425][310]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.10:777][319]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.12:858][374]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.12:897][375]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.12:936][376]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.12:936][376]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.13:162][382]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.13:162][382]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.13:218][384]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.13:415][393]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.13:461][395]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.37.14:795][443]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.14:831][444]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.15:013][449]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.15:049][450]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.15:380][459]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.15:459][461]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.15:459][461]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.15:532][463]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.15:728][468]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.15:841][471]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.16:645][492]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.16:719][494]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.17:149][506]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.17:184][507]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.17:326][511]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.17:327][511]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.37.17:327][511]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.18:576][555]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.18:644][558]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.18:666][559]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.18:866][568]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.18:866][568]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.19:157][581]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.21:503][658]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.21:503][658]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.21:525][659]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.21:549][660]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.24:630][798]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.37.28:101][885]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.28:101][885]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.28:321][891]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.28:720][902]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.28:784][905]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.28:874][909]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.30:544][984]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:1228).
+[2018.03.07-14.37.30:581][984]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:1228).
+[2018.03.07-14.37.32:204][ 49]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.37.35:443][150]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.35:443][150]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.35:443][150]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.07-14.37.35:444][150]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.35:554][155]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.35:598][157]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.35:598][157]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.35:957][173]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.35:978][174]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.36:001][175]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.36:073][178]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.36:073][178]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.36:073][178]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.36:337][190]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.07-14.37.36:381][192]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.36:381][192]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.36:448][195]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.36:471][196]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.36:984][219]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.36:984][219]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.37:028][221]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.37:028][221]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.37:230][230]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.07-14.37.37:319][234]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.37:343][235]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.37:765][254]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.37:788][255]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.37:967][263]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.38:012][265]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.38:101][269]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.38:124][270]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.38:169][272]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.38:213][274]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.38:303][278]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.38:325][279]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.38:375][281]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.07-14.37.38:973][308]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.07-14.37.39:508][332]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.39:531][333]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.39:576][335]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.39:576][335]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.39:687][340]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.39:712][341]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.39:732][342]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.39:821][346]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.40:045][356]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.07-14.37.41:021][397]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:1641).
+[2018.03.07-14.37.41:042][397]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:1641).
+[2018.03.07-14.37.41:101][398]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.41:101][398]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.41:229][401]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.41:314][403]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.41:537][408]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.41:537][408]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.42:008][423]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.42:103][425]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.42:154][426]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.42:154][426]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.42:154][426]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.42:201][427]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.44:469][486]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.44:514][488]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.44:580][491]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.37.44:601][492]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.44:601][492]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.44:982][509]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.45:116][515]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.46:473][572]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.46:521][573]LogBlueprintUserMessages: [Draw_02_222] CAN BE GRABBED
+[2018.03.07-14.37.46:663][576]LogBlueprintUserMessages: [Draw_03_458] CAN BE GRABBED
+[2018.03.07-14.37.46:663][576]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.46:705][577]LogBlueprintUserMessages: [Draw_03_458] CAN BE GRABBED
+[2018.03.07-14.37.46:705][577]LogBlueprintUserMessages: [Draw_03_458] CAN BE GRABBED
+[2018.03.07-14.37.46:747][578]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.46:747][578]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.46:747][578]LogBlueprintUserMessages: [Draw_02_222] CANNOT BE GRABBED
+[2018.03.07-14.37.46:747][578]LogBlueprintUserMessages: [Draw_03_458] CAN BE GRABBED
+[2018.03.07-14.37.46:792][579]LogBlueprintUserMessages: [Draw_03_458] CANNOT BE GRABBED
+[2018.03.07-14.37.46:792][579]LogBlueprintUserMessages: [Draw_03_458] CANNOT BE GRABBED
+[2018.03.07-14.37.46:836][580]LogBlueprintUserMessages: [Draw_03_458] CANNOT BE GRABBED
+[2018.03.07-14.37.46:836][580]LogBlueprintUserMessages: [Draw_03_458] CANNOT BE GRABBED
+[2018.03.07-14.37.53:094][764]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.53:341][775]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.53:985][804]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.54:007][805]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.54:074][808]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.54:141][811]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.54:231][815]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.37.54:991][849]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.55:236][860]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.55:259][861]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.55:280][862]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.55:548][874]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.55:548][874]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.55:615][877]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.56:443][914]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.56:465][915]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.56:510][917]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.56:598][921]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.56:644][923]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.56:711][926]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.56:756][928]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.56:800][930]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.56:800][930]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.56:890][934]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.56:912][935]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.57:336][954]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.57:358][955]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.57:403][957]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.57:648][968]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.57:671][969]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.57:715][971]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.58:230][994]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.58:275][996]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.58:275][996]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.58:297][997]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.58:833][ 21]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.59:190][ 37]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.37.59:301][ 42]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.59:347][ 44]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.59:369][ 45]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.37.59:391][ 46]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.38.00:509][ 96]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.38.00:621][101]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.38.00:621][101]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.38.00:755][107]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.38.00:755][107]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.38.01:460][135]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.38.01:500][136]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.38.01:500][136]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.38.01:535][137]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.38.02:579][164]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:2408).
+[2018.03.07-14.38.02:598][164]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:2408).
+[2018.03.07-14.38.07:429][274]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.38.07:593][274]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.39.06:420][377]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.07-14.39.06:694][378]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.07-14.39.06:968][379]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.07-14.39.07:165][379]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.07-14.39.07:372][379]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.07-14.39.08:083][393]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.07-14.39.08:498][400]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.07-14.39.08:736][400]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.07-14.39.08:992][400]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.07-14.39.09:214][400]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.07-14.39.09:438][400]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.07-14.39.09:908][407]LogEditorTransaction: Undo Rotate Actors
+[2018.03.07-14.39.10:132][407]LogEditorTransaction: Undo Rotate Actors
+[2018.03.07-14.40.15:668][998]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.07-14.42.01:065][164]BlueprintLog: New page: Compile Draw_01_BP
+[2018.03.07-14.42.02:957][204]LogSavePackage: Save=72.53ms
+[2018.03.07-14.42.02:957][204]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Saved/Draw_01_BP33017BE649A35F84062C868136DDB96C.tmp' to '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/Apartment/ApartmentBlueprints/Draw_01_BP.uasset'
+[2018.03.07-14.42.02:959][204]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/Apartment/ApartmentBlueprints/Draw_01_BP.uasset
+[2018.03.07-14.42.07:818][391]LogTemp: Repeating last play command: VR Preview
+[2018.03.07-14.42.07:844][391]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.42.07:844][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.07-14.42.07:844][391]PIE: New page: PIE session: Apartment (7 Mar 2018 14:42:07)
+[2018.03.07-14.42.07:844][391]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Apartment
+[2018.03.07-14.42.08:057][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.213244s)
+[2018.03.07-14.42.08:059][391]LogAIModule: Creating AISystem for world Apartment
+[2018.03.07-14.42.08:059][391]LogPlayLevel: PIE: World Init took: (0.001654s)
+[2018.03.07-14.42.08:060][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Apartment.Apartment to /Game/Maps/UEDPIE_0_Apartment.Apartment (0.216088s)
+[2018.03.07-14.42.08:100][391]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.07-14.42.08:108][391]LogInit: FAudioDevice initialized.
+[2018.03.07-14.42.08:199][391]LogLoad: Game class is 'GameModePrototype'
+[2018.03.07-14.42.08:208][391]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.AnsweringMachine_01_SM_Anim_2.SkeletalMeshComponent0'
+[2018.03.07-14.42.08:213][391]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Apartment.Apartment up for play (max tick rate 0) at 2018.03.07-14.42.08
+[2018.03.07-14.42.08:215][391]LogWorld: Bringing up level for play took: 0.015044
+[2018.03.07-14.42.08:227][391]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Apartment 0.16
+[2018.03.07-14.42.08:227][391]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.42.08:935][392]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:1).
+[2018.03.07-14.42.09:008][392]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:1).
+[2018.03.07-14.42.30:187][ 19]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:628).
+[2018.03.07-14.42.30:228][ 19]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:628).
+[2018.03.07-14.42.39:256][281]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:890).
+[2018.03.07-14.42.39:289][281]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:890).
+[2018.03.07-14.42.49:786][744]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.42.52:105][803]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.42.52:105][803]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.42.52:351][810]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.07-14.42.54:762][873]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.42.54:762][873]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.42.54:762][873]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.42.54:762][873]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.42.54:921][877]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.07-14.42.57:520][934]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.42.57:520][934]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.42.57:520][934]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.42.57:650][938]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.42.58:527][966]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.07-14.42.58:851][976]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.42.59:005][981]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.42.59:036][982]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.42.59:098][984]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.42.59:318][991]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.42.59:319][991]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.42.59:412][994]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.42.59:476][996]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.42.59:699][  3]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.07-14.42.59:980][ 12]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.00:069][ 15]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.00:069][ 15]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.00:125][ 17]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.01:012][ 45]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.01:012][ 45]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.01:012][ 45]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.01:078][ 47]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.01:315][ 54]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.43.02:761][ 97]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.02:798][ 98]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.02:899][101]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.02:899][101]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.02:899][101]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.02:899][101]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.02:932][102]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.03:000][104]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.03:134][108]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.07-14.43.03:479][118]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.03:754][126]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.04:109][136]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.07-14.43.04:914][158]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.07-14.43.05:130][164]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.05:239][167]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.05:381][171]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.07-14.43.05:628][178]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.05:662][179]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.05:662][179]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.05:732][181]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.06:129][192]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.06:130][192]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.06:163][193]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.06:198][194]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.06:378][199]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.43.07:783][229]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.08:150][236]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.08:286][239]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.08:332][240]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.09:597][265]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.43.12:795][327]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.43.15:486][383]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.15:520][384]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.15:555][385]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.15:725][390]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.15:759][391]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HitComponentRight from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property HitComponentRight
+[2018.03.07-14.43.18:248][467]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.18:448][476]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.18:471][477]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.18:539][480]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.21:084][594]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.21:285][603]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.43.21:508][613]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.21:576][616]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.21:622][618]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.21:911][631]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.21:912][631]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.21:956][633]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.21:956][633]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.23:185][688]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.43.23:609][707]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.23:653][709]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.23:676][710]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.23:698][711]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.24:123][730]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.24:123][730]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.24:145][731]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.24:168][732]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.24:481][746]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.24:569][750]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.24:636][753]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.24:659][754]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.24:703][756]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.24:770][759]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.24:995][769]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.25:464][790]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.43.25:508][792]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.25:597][796]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.25:799][805]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.26:089][818]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.26:110][819]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.26:133][820]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.26:156][821]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.26:334][829]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.26:581][840]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.26:803][850]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.26:916][855]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.43.27:364][875]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.27:465][878]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.27:492][879]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.27:492][879]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.27:531][880]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.28:582][908]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.43.30:267][984]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.30:311][986]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.07-14.43.30:467][993]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.30:511][995]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.30:511][995]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.31:197][ 23]LogBlueprintUserMessages: [BP_Drawer_729] CAN BE GRABBED
+[2018.03.07-14.43.31:224][ 24]LogBlueprintUserMessages: [BP_Drawer_729] CANNOT BE GRABBED
+[2018.03.07-14.43.36:387][224]LogBlueprintUserMessages: [Draw_5] CAN BE GRABBED
+[2018.03.07-14.43.36:387][224]LogBlueprintUserMessages: [BP_Drawer3] CAN BE GRABBED
+[2018.03.07-14.43.36:387][224]LogBlueprintUserMessages: [BP_Drawer3] CAN BE GRABBED
+[2018.03.07-14.43.36:387][224]LogBlueprintUserMessages: [Draw_5] CAN BE GRABBED
+[2018.03.07-14.43.36:387][224]LogBlueprintUserMessages: [BP_Drawer3] CAN BE GRABBED
+[2018.03.07-14.43.36:388][224]LogBlueprintUserMessages: [BP_Drawer3] CAN BE GRABBED
+[2018.03.07-14.43.36:633][235]LogBlueprintUserMessages: [Draw_5] CANNOT BE GRABBED
+[2018.03.07-14.43.36:700][238]LogBlueprintUserMessages: [Draw_5] CANNOT BE GRABBED
+[2018.03.07-14.43.36:878][246]LogBlueprintUserMessages: [Draw_5] CAN BE GRABBED
+[2018.03.07-14.43.36:968][250]LogBlueprintUserMessages: [Draw_5] CAN BE GRABBED
+[2018.03.07-14.43.37:096][256]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:2865).
+[2018.03.07-14.43.37:112][256]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:2865).
+[2018.03.07-14.43.37:424][269]LogBlueprintUserMessages: [Draw_5] CANNOT BE GRABBED
+[2018.03.07-14.43.37:489][272]LogBlueprintUserMessages: [Draw_5] CANNOT BE GRABBED
+[2018.03.07-14.43.37:602][277]LogBlueprintUserMessages: [Draw_5] CAN BE GRABBED
+[2018.03.07-14.43.37:958][293]LogBlueprintUserMessages: [Draw_5] CANNOT BE GRABBED
+[2018.03.07-14.43.38:615][323]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:2932).
+[2018.03.07-14.43.38:650][323]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:2932).
+[2018.03.07-14.43.38:803][328]LogBlueprintUserMessages: [Draw_5] CAN BE GRABBED
+[2018.03.07-14.43.38:895][332]LogBlueprintUserMessages: [Draw_5] CANNOT BE GRABBED
+[2018.03.07-14.43.39:320][351]LogBlueprintUserMessages: [Draw_5] CAN BE GRABBED
+[2018.03.07-14.43.39:343][352]LogBlueprintUserMessages: [Draw_5] CAN BE GRABBED
+[2018.03.07-14.43.39:364][353]LogBlueprintUserMessages: [BP_Drawer3] CANNOT BE GRABBED
+[2018.03.07-14.43.39:365][353]LogBlueprintUserMessages: [Draw_5] CAN BE GRABBED
+[2018.03.07-14.43.39:430][356]LogBlueprintUserMessages: [BP_Drawer3] CANNOT BE GRABBED
+[2018.03.07-14.43.39:453][357]LogBlueprintUserMessages: [BP_Drawer3] CANNOT BE GRABBED
+[2018.03.07-14.43.39:478][358]LogBlueprintUserMessages: [Draw_5] CANNOT BE GRABBED
+[2018.03.07-14.43.39:498][359]LogBlueprintUserMessages: [Draw_5] CANNOT BE GRABBED
+[2018.03.07-14.43.39:520][360]LogBlueprintUserMessages: [Draw_5] CANNOT BE GRABBED
+[2018.03.07-14.43.39:520][360]LogBlueprintUserMessages: [BP_Drawer3] CANNOT BE GRABBED
+[2018.03.07-14.43.40:483][403]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.43.40:648][403]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.07-14.44.07:859][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Apartment" FILE="../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/Maps/Apartment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.07-14.44.09:166][161]LogSavePackage: Save=1258.11ms
+[2018.03.07-14.44.09:166][161]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Saved/Apartment317586054A3719C76EE664BB709DCA54.tmp' to '../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/Maps/Apartment.umap'
+[2018.03.07-14.44.09:174][161]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/PGVR/GumshoeVR/Content/Maps/Apartment.umap
+[2018.03.07-14.44.18:262][584]MapCheck: New page: Map Check
+[2018.03.07-14.44.18:281][584]Cmd: MAP REBUILD ALLVISIBLE
+[2018.03.07-14.44.18:282][584]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.03.07-14.44.18:352][584]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Apartment.Apartment:PersistentLevel.AnsweringMachine_01_SM_Anim_2.SkeletalMeshComponent0'
+[2018.03.07-14.44.18:397][584]LightingResults: New page: Lighting Build - 7 Mar 2018 14:44:18
+[2018.03.07-14.44.18:450][584]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.03.07-14.44.18:520][584]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.03.07-14.44.18:537][584]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.03.07-14.44.19:062][584]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.03.07-14.44.19:062][584]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9852
+[2018.03.07-14.44.21:527][584]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.03.07-14.44.21:527][584]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.03.07-14.44.21:527][584]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.03.07-14.44.21:527][584]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.03.07-14.44.21:527][584]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.03.07-14.44.22:474][584]LogEditorBuildUtils: Build time 0:04
+[2018.03.07-14.44.22:484][584]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_2, compiling. 
+[2018.03.07-14.44.22:490][584]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_2, compiling. 
+[2018.03.07-14.44.22:557][585]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Glass_MAT_Inst, compiling. 
+[2018.03.07-14.44.22:565][585]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Glass_MAT_Inst, compiling. 
+[2018.03.07-14.44.22:635][586]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_SuperGrid_Default, compiling. 
+[2018.03.07-14.44.22:643][586]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_SuperGrid_Default, compiling. 
+[2018.03.07-14.44.22:662][587]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer defaultPolygonShader, compiling. 
+[2018.03.07-14.44.22:669][587]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer defaultPolygonShader, compiling. 
+[2018.03.07-14.44.22:688][588]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Floor_01_MAT, compiling. 
+[2018.03.07-14.44.22:696][588]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Floor_01_MAT, compiling. 
+[2018.03.07-14.44.22:716][589]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Bush, compiling. 
+[2018.03.07-14.44.22:722][589]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Bush, compiling. 
+[2018.03.07-14.44.22:729][589]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Bush, compiling. 
+[2018.03.07-14.44.22:748][590]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_AtlasMap, compiling. 
+[2018.03.07-14.44.22:756][590]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_AtlasMap, compiling. 
+[2018.03.07-14.44.22:764][590]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_AtlasMap, compiling. 
+[2018.03.07-14.44.22:786][591]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Mirror, compiling. 
+[2018.03.07-14.44.22:793][591]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Mirror, compiling. 
+[2018.03.07-14.44.22:814][592]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_ShowerGlass1, compiling. 
+[2018.03.07-14.44.22:821][592]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_ShowerGlass1, compiling. 
+[2018.03.07-14.44.22:838][593]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_ShowerGlass, compiling. 
+[2018.03.07-14.44.22:845][593]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_ShowerGlass, compiling. 
+[2018.03.07-14.44.22:864][594]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Looroll, compiling. 
+[2018.03.07-14.44.22:871][594]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Looroll, compiling. 
+[2018.03.07-14.44.22:892][595]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Light, compiling. 
+[2018.03.07-14.44.22:900][595]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Light, compiling. 
+[2018.03.07-14.44.22:922][596]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Bed, compiling. 
+[2018.03.07-14.44.22:930][596]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Bed, compiling. 
+[2018.03.07-14.44.22:953][597]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Bookcase, compiling. 
+[2018.03.07-14.44.22:962][597]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Bookcase, compiling. 
+[2018.03.07-14.44.22:981][598]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer PictureATLAS, compiling. 
+[2018.03.07-14.44.22:988][598]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer PictureATLAS, compiling. 
+[2018.03.07-14.44.23:007][599]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Cuupboards, compiling. 
+[2018.03.07-14.44.23:015][599]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Cuupboards, compiling. 
+[2018.03.07-14.44.23:036][600]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer pasted__TableStuff1, compiling. 
+[2018.03.07-14.44.23:043][600]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer pasted__TableStuff1, compiling. 
+[2018.03.07-14.44.23:063][601]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.03.07-14.44.23:072][601]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.03.07-14.44.23:090][602]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer TableStuff1, compiling. 
+[2018.03.07-14.44.23:098][602]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer TableStuff1, compiling. 
+[2018.03.07-14.44.23:116][603]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_PlantPot, compiling. 
+[2018.03.07-14.44.23:122][603]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_PlantPot, compiling. 
+[2018.03.07-14.44.23:141][604]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Dirt, compiling. 
+[2018.03.07-14.44.23:148][604]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Dirt, compiling. 
+[2018.03.07-14.44.23:166][605]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Pillows, compiling. 
+[2018.03.07-14.44.23:173][605]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Pillows, compiling. 
+[2018.03.07-14.44.23:192][606]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_BalconyFloor, compiling. 
+[2018.03.07-14.44.23:200][606]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_BalconyFloor, compiling. 
+[2018.03.07-14.44.23:218][607]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BounceCard, compiling. 
+[2018.03.07-14.44.23:225][607]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BounceCard, compiling. 
+[2018.03.07-14.44.23:243][608]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2018.03.07-14.44.23:250][608]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2018.03.07-14.44.23:268][609]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Rug_Mat_Inst, compiling. 
+[2018.03.07-14.44.23:278][609]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Rug_Mat_Inst, compiling. 
+[2018.03.07-14.44.23:300][610]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Hologram1, compiling. 
+[2018.03.07-14.44.23:306][610]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Hologram1, compiling. 
+[2018.03.07-14.44.23:324][611]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert6, compiling. 
+[2018.03.07-14.44.23:333][611]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert6, compiling. 
+[2018.03.07-14.44.23:356][612]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert4, compiling. 
+[2018.03.07-14.44.23:364][612]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert4, compiling. 
+[2018.03.07-14.44.23:465][613]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert5, compiling. 
+[2018.03.07-14.44.23:473][613]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert5, compiling. 
+[2018.03.07-14.44.23:516][614]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_AtlasShirt, compiling. 
+[2018.03.07-14.44.23:524][614]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_AtlasShirt, compiling. 
+[2018.03.07-14.44.23:555][615]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert2, compiling. 
+[2018.03.07-14.44.23:565][615]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert2, compiling. 
+[2018.03.07-14.44.23:616][616]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2018.03.07-14.44.23:624][616]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2018.03.07-14.44.23:651][617]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Polished, compiling. 
+[2018.03.07-14.44.23:659][617]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Polished, compiling. 
+[2018.03.07-14.44.23:683][618]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LiftDoor, compiling. 
+[2018.03.07-14.44.23:691][618]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LiftDoor, compiling. 
+[2018.03.07-14.44.23:711][619]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Canvas_Inst_Inst, compiling. 
+[2018.03.07-14.44.23:720][619]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Canvas_Inst_Inst, compiling. 
+[2018.03.07-14.44.23:762][620]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert47, compiling. 
+[2018.03.07-14.44.23:770][620]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert47, compiling. 
+[2018.03.07-14.44.23:798][621]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Black_Plastic, compiling. 
+[2018.03.07-14.44.23:805][621]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Black_Plastic, compiling. 
+[2018.03.07-14.44.23:825][622]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Wood, compiling. 
+[2018.03.07-14.44.23:833][622]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Wood, compiling. 
+[2018.03.07-14.44.23:853][623]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer AtlasWall_01_MAT, compiling. 
+[2018.03.07-14.44.23:863][623]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer AtlasWall_01_MAT, compiling. 
+[2018.03.07-14.44.33:524][633]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.172 s
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: 
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: Ensure condition failed: LightAttenuation [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Renderer\Private\PostProcess\SceneRenderTargets.cpp] [Line: 1134]
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: 
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: Stack: 
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x00000000AB292786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x00000000AB03123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x00000000AB04B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x000000009FFFFE39 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x00000000A014803B UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x000000009FBF4616 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x000000009FC00E54 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x000000009FB5E6DD UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x000000009FB5F0B2 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x000000009FBB3F15 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x00000000A00C1251 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x00000000A905943B UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x00000000A903B4C3 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x00000000A905DC76 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x00000000AAEF4845 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x00000000AAEF4E2A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x00000000B68022C4 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.03.07-14.44.33:524][633]LogOutputDevice: Error: [Callstack] 0x00000000B68032F6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.03.07-14.44.33:525][633]LogOutputDevice: Error: [Callstack] 0x00000000AB29092C UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-14.44.33:525][633]LogOutputDevice: Error: [Callstack] 0x00000000AB282563 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-14.44.33:525][633]LogOutputDevice: Error: [Callstack] 0x00000000042A2774 KERNEL32.DLL!UnknownFunction []
+[2018.03.07-14.44.33:525][633]LogOutputDevice: Error: [Callstack] 0x0000000006960D51 ntdll.dll!UnknownFunction []
+[2018.03.07-14.44.33:525][633]LogOutputDevice: Error: 
+[2018.03.07-14.44.33:525][633]LogStats:                SubmitErrorReport -  0.000 s
