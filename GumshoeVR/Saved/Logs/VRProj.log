@@ -1437,3 +1437,856 @@ LogInit: Object subsystem initialized
 [2018.03.14-09.55.26:654][503]LogSavePackage: Save=35.89ms
 [2018.03.14-09.55.26:654][503]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/WireSpline2B72A5F84CDCE2861F974C91D05D36F0.tmp' to '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Apartment/Geometry/WireAndPlug/WireSpline.uasset'
 [2018.03.14-09.55.26:657][503]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Apartment/Geometry/WireAndPlug/WireSpline.uasset
+[2018.03.14-09.57.29:546][992]LogEditorViewport: Clicking on Actor (LMB): Keypad_Main_C (Keypad_Main)
+[2018.03.14-09.57.31:316][136]Cmd: TRANSACTION UNDO
+[2018.03.14-09.57.31:316][136]LogEditorTransaction: Undo Move Actors
+[2018.03.14-09.57.32:489][213]Cmd: MODE GRID=1
+[2018.03.14-09.57.36:636][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wire_02_SM)
+[2018.03.14-09.57.39:472][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wire_01_SM)
+[2018.03.14-09.58.04:203][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RedWire_01_SM)
+[2018.03.14-09.58.10:869][568]Cmd: MODE GRID=0
+[2018.03.14-09.58.29:493][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RedWire_01_SM2)
+[2018.03.14-09.58.38:293][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RedWireCut_01_SM2)
+[2018.03.14-09.58.52:090][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RedWireCut_01_SM)
+[2018.03.14-09.58.53:898][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RedWire_01_SM)
+[2018.03.14-09.59.10:528][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bomb_01_SM)
+[2018.03.14-09.59.13:760][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RedWireCut_01_SM)
+[2018.03.14-09.59.21:056][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BlueWire_01_SM2)
+[2018.03.14-09.59.24:633][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BlueWireCut_01_SM)
+[2018.03.14-09.59.26:755][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bomb_01_SM)
+[2018.03.14-09.59.38:200][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BlueWireCut_01_SM)
+[2018.03.14-09.59.52:116][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RedWireCut_01_SM)
+[2018.03.14-09.59.54:482][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bomb_01_SM)
+[2018.03.14-10.00.00:250][961]LogMaterial: Missing cached shader map for material Hologram1, compiling. 
+[2018.03.14-10.00.00:375][961]LogMaterial: Missing cached shader map for material Hologram1, compiling. 
+[2018.03.14-10.00.00:409][961]LogMaterial: Missing cached shader map for material Hologram1, compiling. 
+[2018.03.14-10.00.00:471][961]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.03.14-10.00.00:477][961]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.03.14-10.00.00:484][961]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.03.14-10.00.00:491][961]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.14-10.00.03:075][ 88]MaterialEditorStats: Base pass shader without light map: 96 instructions
+[2018.03.14-10.00.03:075][ 88]MaterialEditorStats: Vertex shader: 224 instructions
+[2018.03.14-10.00.03:075][ 88]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.14-10.00.03:075][ 88]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.14-10.00.09:131][500]LogMaterial: Missing cached shader map for material Hologram1, compiling. 
+[2018.03.14-10.00.09:190][502]LogMaterialEditor: Saving and Compiling material Hologram1
+[2018.03.14-10.00.10:268][502]LogMaterial: Missing cached shader map for material Hologram1, compiling. 
+[2018.03.14-10.00.10:331][502]LogMaterial: Missing cached shader map for material Hologram1, compiling. 
+[2018.03.14-10.00.10:382][502]LogMaterial: Missing cached shader map for material Hologram1, compiling. 
+[2018.03.14-10.00.10:454][502]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hologram1, compiling. 
+[2018.03.14-10.00.11:960][502]TextureStreamingBuild: Display: Compiling optional shaders took 1.511 seconds.
+[2018.03.14-10.00.14:052][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Apartment/Hologram1" FILE="../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Apartment/Hologram1.uasset" SILENT=true
+[2018.03.14-10.00.14:087][502]LogSavePackage: Save=27.21ms
+[2018.03.14-10.00.14:087][502]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/Hologram14757966D42E2C13926BF549BB6FF4C83.tmp' to '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Apartment/Hologram1.uasset'
+[2018.03.14-10.00.14:089][502]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Apartment/Hologram1.uasset
+[2018.03.14-10.00.39:844][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bomb_01_SM)
+[2018.03.14-10.00.41:856][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RedWire_01_SM)
+[2018.03.14-10.01.34:504][551]LogSavePackage: Save=17.83ms
+[2018.03.14-10.01.34:505][551]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/Wire_01_SM0DDFF8A547C8E5FC2CA8AD98AD02AE53.tmp' to '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Apartment/Geometry/Bomb/Wire_01_SM.uasset'
+[2018.03.14-10.01.34:507][551]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Apartment/Geometry/Bomb/Wire_01_SM.uasset
+[2018.03.14-10.01.36:687][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BlueWire_01_SM2)
+[2018.03.14-10.01.55:980][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bomb_01_SM)
+[2018.03.14-10.02.01:980][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Apartment" FILE="../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Maps/Apartment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.14-10.02.03:367][212]LogSavePackage: Save=1332.87ms
+[2018.03.14-10.02.03:367][212]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/ApartmentC2B6192D4C7019842CBFAAB83947429E.tmp' to '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Maps/Apartment.umap'
+[2018.03.14-10.02.03:375][212]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Maps/Apartment.umap
+[2018.03.14-10.02.10:787][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_03_SM)
+[2018.03.14-10.02.20:144][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RedWire_01_SM)
+[2018.03.14-10.02.22:577][302]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.14-10.02.22:680][302]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.14-10.02.22:704][302]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.14-10.02.22:753][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.03.14-10.02.22:758][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.03.14-10.02.22:763][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.03.14-10.02.22:768][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.14-10.02.25:427][417]MaterialEditorStats: Base pass shader without light map: 96 instructions
+[2018.03.14-10.02.25:427][417]MaterialEditorStats: Vertex shader: 224 instructions
+[2018.03.14-10.02.25:427][417]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.14-10.02.25:427][417]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.14-10.02.33:947][873]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.14-10.02.36:204][980]MaterialEditorStats: Base pass shader without light map: 96 instructions
+[2018.03.14-10.02.36:204][980]MaterialEditorStats: Vertex shader: 224 instructions
+[2018.03.14-10.02.36:204][980]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.14-10.02.36:204][980]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.14-10.02.38:494][114]LogMaterialEditor: Saving and Compiling material Hologram1
+[2018.03.14-10.02.38:930][114]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.14-10.02.38:977][114]LogMaterial: Missing cached shader map for material Hologram1, compiling. 
+[2018.03.14-10.02.39:013][114]LogMaterial: Missing cached shader map for material Hologram1, compiling. 
+[2018.03.14-10.02.39:079][114]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hologram1, compiling. 
+[2018.03.14-10.02.40:495][114]TextureStreamingBuild: Display: Compiling optional shaders took 1.422 seconds.
+[2018.03.14-10.02.42:592][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Apartment/Hologram1" FILE="../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Apartment/Hologram1.uasset" SILENT=true
+[2018.03.14-10.02.42:617][114]LogSavePackage: Save=21.76ms
+[2018.03.14-10.02.42:617][114]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/Hologram16C67B7094F28302117822AACD3972232.tmp' to '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Apartment/Hologram1.uasset'
+[2018.03.14-10.02.42:620][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Apartment/Hologram1.uasset
+[2018.03.14-10.02.46:987][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bomb_01_SM)
+[2018.03.14-10.03.15:734][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bomb_01_SM)
+[2018.03.14-10.03.35:376][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bomb_01_SM)
+[2018.03.14-10.03.36:177][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BlueWire_01_SM2)
+[2018.03.14-10.03.38:477][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RedWire_01_SM)
+[2018.03.14-10.04.16:430][199]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.14-10.04.31:886][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BlueWire_01_SM2)
+[2018.03.14-10.05.10:158][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scissors_01_SM)
+[2018.03.14-10.08.22:091][767]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_03_SM)
+[2018.03.14-10.10.15:514][236]Cmd: MODE SCALEGRID=1
+[2018.03.14-10.10.15:730][248]Cmd: MODE SCALEGRID=0
+[2018.03.14-10.10.24:290][773]Cmd: TRANSACTION UNDO
+[2018.03.14-10.10.24:290][773]LogEditorTransaction: Undo Scale Actors
+[2018.03.14-10.10.24:652][784]Cmd: TRANSACTION UNDO
+[2018.03.14-10.10.24:652][784]LogEditorTransaction: Undo Scale Actors
+[2018.03.14-10.10.46:302][ 97]Cmd: TRANSACTION UNDO
+[2018.03.14-10.10.46:302][ 97]LogEditorTransaction: Undo Set Scale
+[2018.03.14-10.10.46:591][105]Cmd: TRANSACTION UNDO
+[2018.03.14-10.10.46:591][105]LogEditorTransaction: Undo Set Scale
+[2018.03.14-10.10.47:870][171]Cmd: TRANSACTION UNDO
+[2018.03.14-10.10.47:870][171]LogEditorTransaction: Undo Move Actors
+[2018.03.14-10.10.57:529][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_03_SM)
+[2018.03.14-10.10.58:683][815]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (RedWireTVol)
+[2018.03.14-10.12.39:495][102]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (RedWireTVol)
+[2018.03.14-10.16.11:883][848]BlueprintLog: New page: Compile Apartment
+[2018.03.14-10.16.15:107][ 21]LogTemp: Repeating last play command: Simulate
+[2018.03.14-10.16.15:131][ 21]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.16.15:131][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.14-10.16.15:131][ 21]PIE: New page: SIE session: Apartment (14 Mar 2018 10:16:15)
+[2018.03.14-10.16.15:131][ 21]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Apartment
+[2018.03.14-10.16.15:360][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.229160s)
+[2018.03.14-10.16.15:361][ 21]LogAIModule: Creating AISystem for world Apartment
+[2018.03.14-10.16.15:362][ 21]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2018.03.14-10.16.15:362][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Apartment.Apartment to /Game/Maps/UEDPIE_0_Apartment.Apartment (0.230851s)
+[2018.03.14-10.16.15:384][ 21]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.14-10.16.15:398][ 21]LogInit: FAudioDevice initialized.
+[2018.03.14-10.16.15:430][ 21]LogLoad: Game class is 'GameModePrototype'
+[2018.03.14-10.16.15:452][ 21]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Apartment.Apartment up for play (max tick rate 0) at 2018.03.14-10.16.15
+[2018.03.14-10.16.15:455][ 21]LogWorld: Bringing up level for play took: 0.024090
+[2018.03.14-10.16.15:455][ 21]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.14-10.16.15:460][ 21]LogBlueprintUserMessages: [Apartment_C_0] LONG xD
+[2018.03.14-10.16.15:460][ 21]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Apartment 0.027
+[2018.03.14-10.16.15:479][ 21]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.16.28:881][785]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.16.28:947][785]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.16.31:587][945]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.16.31:587][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.14-10.16.31:587][945]PIE: New page: PIE session: Apartment (14 Mar 2018 10:16:31)
+[2018.03.14-10.16.31:587][945]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Apartment
+[2018.03.14-10.16.31:800][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.212353s)
+[2018.03.14-10.16.31:800][945]LogAIModule: Creating AISystem for world Apartment
+[2018.03.14-10.16.31:800][945]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2018.03.14-10.16.31:801][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Apartment.Apartment to /Game/Maps/UEDPIE_0_Apartment.Apartment (0.213661s)
+[2018.03.14-10.16.31:822][945]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.14-10.16.31:835][945]LogInit: FAudioDevice initialized.
+[2018.03.14-10.16.31:956][945]LogLoad: Game class is 'GameModePrototype'
+[2018.03.14-10.16.31:976][945]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Apartment.Apartment up for play (max tick rate 0) at 2018.03.14-10.16.31
+[2018.03.14-10.16.31:978][945]LogWorld: Bringing up level for play took: 0.021317
+[2018.03.14-10.16.31:983][945]LogScript: Warning: Accessed None trying to read property Current Audio
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:28C9
+[2018.03.14-10.16.31:983][945]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Current Audio from function: 'ExecuteUbergraph_VR_Conroller' from node: Stop in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Current Audio
+[2018.03.14-10.16.31:983][945]LogBlueprintUserMessages: [Apartment_C_0] LONG xD
+[2018.03.14-10.16.32:007][945]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Apartment 0.574
+[2018.03.14-10.16.32:007][945]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.16.32:610][946]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 10 NumSamples 1 (Frame:1).
+[2018.03.14-10.17.24:025][898]LogScript: Warning: Attempted to access index 0 from array ComponentTags of length 0!
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:1D07
+[2018.03.14-10.17.24:026][898]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.14-10.17.25:027][932]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:986).
+[2018.03.14-10.17.25:056][932]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:986).
+[2018.03.14-10.17.29:494][ 62]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:1116).
+[2018.03.14-10.17.29:518][ 62]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:1116).
+[2018.03.14-10.17.30:544][107]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:1161).
+[2018.03.14-10.17.30:566][107]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:1161).
+[2018.03.14-10.17.30:612][107]LogScript: Warning: Attempted to access AudioComponent_0 via property Current Audio, but AudioComponent_0 is pending kill
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:111D
+[2018.03.14-10.17.30:612][107]PIE: Error: Blueprint Runtime Error: Attempted to access AudioComponent_0 via property Current Audio, but AudioComponent_0 is pending kill from function: 'ExecuteUbergraph_VR_Conroller' from node: Stop in graph: EventGraph in object: VR_Conroller with description: Attempted to access AudioComponent_0 via property Current Audio, but AudioComponent_0 is pending kill
+[2018.03.14-10.17.32:033][170]LogScript: Warning: Attempted to access index 0 from array ComponentTags of length 0!
+	Door_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.Door_302
+	Function /Game/Apartment/ApartmentBlueprints/Door.Door_C:ExecuteUbergraph_Door:02AF
+[2018.03.14-10.17.32:033][170]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_Door' from node: Set CardPresent in graph: EventGraph in object: Door with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.14-10.17.54:722][ 48]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.17.55:129][ 48]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.21.46:163][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RedWire_01_SM)
+[2018.03.14-10.22.14:209][921]BlueprintLog: New page: Compile BP_Bomb
+[2018.03.14-10.23.37:299][247]LogEditorTransaction: Undo Set Scale
+[2018.03.14-10.23.37:313][247]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.012 s
+[2018.03.14-10.23.37:313][247]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.14-10.23.37:313][247]LogOutputDevice: Error: 
+[2018.03.14-10.23.37:313][247]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.03.14-10.23.37:313][247]LogOutputDevice: Error: 
+[2018.03.14-10.23.37:313][247]LogOutputDevice: Error: Stack: 
+[2018.03.14-10.23.37:313][247]LogOutputDevice: Error: [Callstack] 0x00000000BE572786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.14-10.23.37:313][247]LogOutputDevice: Error: [Callstack] 0x00000000BE31123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.14-10.23.37:313][247]LogOutputDevice: Error: [Callstack] 0x00000000BE32B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.14-10.23.37:313][247]LogOutputDevice: Error: [Callstack] 0x00000000B95A0B7C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.14-10.23.37:313][247]LogOutputDevice: Error: [Callstack] 0x00000000B954DD9F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.14-10.23.37:313][247]LogOutputDevice: Error: [Callstack] 0x00000000B20FC07B UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.03.14-10.23.37:313][247]LogOutputDevice: Error: [Callstack] 0x00000000B20FCE85 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.03.14-10.23.37:313][247]LogOutputDevice: Error: [Callstack] 0x00000000B209FB10 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.03.14-10.23.37:313][247]LogOutputDevice: Error: [Callstack] 0x00000000B20A4747 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.03.14-10.23.37:313][247]LogOutputDevice: Error: [Callstack] 0x00000000BAD91290 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.14-10.23.37:313][247]LogOutputDevice: Error: [Callstack] 0x00000000BAD85FD1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.14-10.23.37:313][247]LogOutputDevice: Error: [Callstack] 0x00000000BAD54A47 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000BAD56C17 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000BADF3675 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000BAC08CAA UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000BABA8824 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B8069844 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B7E01859 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B7D9092C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B7D9562C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B815AC89 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B8100AAB UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B8104A4A UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B8102DD7 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B81612CC UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B7D3D7B0 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B7DBDA3D UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B7E0E0CD UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B954EA46 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B9576112 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B955DCE9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B955E61B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B95C28FB UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B9605A0E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B7D90FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B7D95D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000BABA9636 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000BABE83A0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B9DBBE9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000B9DA7803 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000BAB963A1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000BAB6700E UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000BAB68C16 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000BABE988C UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000BABDBEE8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000E38BE28A UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000E38B1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000E38C03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000E38AD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x000000001AE2BC50 USER32.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x000000001AE2B5CF USER32.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000E38C1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000D33E50C8 UE4Editor.exe!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000D33F5430 UE4Editor.exe!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000D33F54AA UE4Editor.exe!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000D3402379 UE4Editor.exe!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x00000000D3403D57 UE4Editor.exe!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x000000001A802774 KERNEL32.DLL!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: [Callstack] 0x000000001C590D51 ntdll.dll!UnknownFunction []
+[2018.03.14-10.23.37:314][247]LogOutputDevice: Error: 
+[2018.03.14-10.23.37:323][247]LogStats:             FDebug::EnsureFailed -  0.021 s
+[2018.03.14-10.23.38:311][333]Cmd: TRANSACTION UNDO
+[2018.03.14-10.23.38:311][333]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.14-10.23.48:044][196]LogEditorTransaction: Undo Set Scale
+[2018.03.14-10.23.48:581][241]Cmd: TRANSACTION UNDO
+[2018.03.14-10.23.48:581][241]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.14-10.24.19:716][ 15]BlueprintLog: New page: Compile BP_Bomb
+[2018.03.14-10.24.56:391][245]BlueprintLog: New page: Compile BP_Bomb
+[2018.03.14-10.26.10:429][798]BlueprintLog: New page: Compile BP_Bomb
+[2018.03.14-10.26.45:520][771]LogSavePackage: Save=1430.21ms
+[2018.03.14-10.26.45:521][771]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/Apartment_Auto35A609AFC4B7A98F85372CE9634176C48.tmp' to '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/Autosaves/Game/Maps/Apartment_Auto3.umap'
+[2018.03.14-10.26.45:525][771]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/Autosaves/Game/Maps/Apartment_Auto3.umap
+[2018.03.14-10.26.45:528][771]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Apartment' took 1.492
+[2018.03.14-10.26.45:528][771]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.492
+[2018.03.14-10.26.45:531][771]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Apartment/ApartmentBlueprints/BP_Bomb] ([1] browsable assets)...
+[2018.03.14-10.26.45:546][771]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Apartment/ApartmentBlueprints/BP_Bomb.BP_Bomb]
+[2018.03.14-10.26.45:546][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Apartment/ApartmentBlueprints/BP_Bomb]
+[2018.03.14-10.26.45:575][771]LogSavePackage: Save=27.13ms
+[2018.03.14-10.26.45:575][771]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/BP_Bomb_Auto3A5AC2CD9487FE3EE2F5D32ACCEF2B0F0.tmp' to '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/Autosaves/Game/Apartment/ApartmentBlueprints/BP_Bomb_Auto3.uasset'
+[2018.03.14-10.26.45:576][771]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/Autosaves/Game/Apartment/ApartmentBlueprints/BP_Bomb_Auto3.uasset
+[2018.03.14-10.26.45:576][771]LogFileHelpers: Auto-saving content packages took 0.047
+[2018.03.14-10.26.48:395][ 21]BlueprintLog: New page: Compile Apartment
+[2018.03.14-10.27.31:574][617]BlueprintLog: New page: Compile BP_Scissors
+[2018.03.14-10.27.46:080][271]LogTemp: Repeating last play command: VR Preview
+[2018.03.14-10.27.46:108][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.27.46:108][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.14-10.27.46:108][271]PIE: New page: PIE session: Apartment (14 Mar 2018 10:27:46)
+[2018.03.14-10.27.46:108][271]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Apartment
+[2018.03.14-10.27.46:343][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.235141s)
+[2018.03.14-10.27.46:344][271]LogAIModule: Creating AISystem for world Apartment
+[2018.03.14-10.27.46:345][271]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2018.03.14-10.27.46:346][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Apartment.Apartment to /Game/Maps/UEDPIE_0_Apartment.Apartment (0.237241s)
+[2018.03.14-10.27.46:407][271]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.14-10.27.46:419][271]LogInit: FAudioDevice initialized.
+[2018.03.14-10.27.46:510][271]LogLoad: Game class is 'GameModePrototype'
+[2018.03.14-10.27.46:531][271]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Apartment.Apartment up for play (max tick rate 0) at 2018.03.14-10.27.46
+[2018.03.14-10.27.46:533][271]LogWorld: Bringing up level for play took: 0.022450
+[2018.03.14-10.27.46:538][271]LogScript: Warning: Accessed None trying to read property Current Audio
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:28C9
+[2018.03.14-10.27.46:538][271]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Current Audio from function: 'ExecuteUbergraph_VR_Conroller' from node: Stop in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Current Audio
+[2018.03.14-10.27.46:548][271]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Apartment 1.123
+[2018.03.14-10.27.46:548][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.27.53:361][506]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:234).
+[2018.03.14-10.27.53:378][506]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:234).
+[2018.03.14-10.27.59:191][665]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:393).
+[2018.03.14-10.27.59:215][665]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:393).
+[2018.03.14-10.28.01:604][771]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:499).
+[2018.03.14-10.28.01:643][771]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:499).
+[2018.03.14-10.28.07:032][950]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:678).
+[2018.03.14-10.28.07:083][950]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:678).
+[2018.03.14-10.28.07:591][972]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:700).
+[2018.03.14-10.28.07:649][972]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:700).
+[2018.03.14-10.28.33:663][514]LogScript: Warning: Accessed None trying to read property Hit Component
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:1A83
+[2018.03.14-10.28.33:663][514]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.14-10.28.34:556][538]LogScript: Warning: Accessed None trying to read property Hit Component
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:1A83
+[2018.03.14-10.28.34:556][538]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.14-10.28.34:868][547]LogScript: Warning: Accessed None trying to read property Hit Component
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:1A83
+[2018.03.14-10.28.34:868][547]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.14-10.28.35:203][557]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.28.35:422][557]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.28.46:336][455]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.14-10.28.51:072][873]BlueprintLog: New page: Compile BP_Scissors
+[2018.03.14-10.28.57:180][377]BlueprintLog: New page: Compile BP_Scissors
+[2018.03.14-10.28.58:320][435]LogTemp: Repeating last play command: VR Preview
+[2018.03.14-10.28.58:351][435]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.28.58:352][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.14-10.28.58:352][435]PIE: New page: PIE session: Apartment (14 Mar 2018 10:28:58)
+[2018.03.14-10.28.58:352][435]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Apartment
+[2018.03.14-10.28.58:567][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.215088s)
+[2018.03.14-10.28.58:567][435]LogAIModule: Creating AISystem for world Apartment
+[2018.03.14-10.28.58:568][435]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2018.03.14-10.28.58:568][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Apartment.Apartment to /Game/Maps/UEDPIE_0_Apartment.Apartment (0.216568s)
+[2018.03.14-10.28.58:599][435]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.14-10.28.58:611][435]LogInit: FAudioDevice initialized.
+[2018.03.14-10.28.58:696][435]LogLoad: Game class is 'GameModePrototype'
+[2018.03.14-10.28.58:718][435]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Apartment.Apartment up for play (max tick rate 0) at 2018.03.14-10.28.58
+[2018.03.14-10.28.58:720][435]LogWorld: Bringing up level for play took: 0.023861
+[2018.03.14-10.28.58:721][435]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.14-10.28.58:723][435]LogScript: Warning: Accessed None trying to read property Current Audio
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:28C9
+[2018.03.14-10.28.58:723][435]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Current Audio from function: 'ExecuteUbergraph_VR_Conroller' from node: Stop in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Current Audio
+[2018.03.14-10.28.58:727][435]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Apartment 1.303
+[2018.03.14-10.28.58:728][435]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.29.05:696][621]LogScript: Warning: Attempted to access index 0 from array ComponentTags of length 0!
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:1D07
+[2018.03.14-10.29.05:696][621]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.14-10.29.06:903][661]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:225).
+[2018.03.14-10.29.06:943][661]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:225).
+[2018.03.14-10.29.07:432][671]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.29.07:693][671]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.29.08:949][765]LogSavePackage: Save=19.21ms
+[2018.03.14-10.29.08:949][765]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/BP_ScissorsC3C6C26F4609BCAA9EC3BBB473846A3E.tmp' to '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Apartment/ApartmentBlueprints/BP_Scissors.uasset'
+[2018.03.14-10.29.08:951][765]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Apartment/ApartmentBlueprints/BP_Scissors.uasset
+[2018.03.14-10.29.48:484][236]BlueprintLog: New page: Compile BP_Bomb
+[2018.03.14-10.29.48:823][236]BlueprintLog: New page: Compile BP_Bomb
+[2018.03.14-10.29.49:942][305]BlueprintLog: New page: Compile BP_Bomb
+[2018.03.14-10.31.09:082][742]BlueprintLog: New page: Compile BP_Bomb
+[2018.03.14-10.31.12:105][958]LogTemp: Repeating last play command: VR Preview
+[2018.03.14-10.31.12:134][958]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.31.12:135][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.14-10.31.12:135][958]PIE: New page: PIE session: Apartment (14 Mar 2018 10:31:12)
+[2018.03.14-10.31.12:135][958]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Apartment
+[2018.03.14-10.31.12:365][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.230822s)
+[2018.03.14-10.31.12:366][958]LogAIModule: Creating AISystem for world Apartment
+[2018.03.14-10.31.12:366][958]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2018.03.14-10.31.12:367][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Apartment.Apartment to /Game/Maps/UEDPIE_0_Apartment.Apartment (0.232314s)
+[2018.03.14-10.31.12:393][958]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.14-10.31.12:405][958]LogInit: FAudioDevice initialized.
+[2018.03.14-10.31.12:490][958]LogLoad: Game class is 'GameModePrototype'
+[2018.03.14-10.31.12:508][958]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Apartment.Apartment up for play (max tick rate 0) at 2018.03.14-10.31.12
+[2018.03.14-10.31.12:510][958]LogWorld: Bringing up level for play took: 0.019203
+[2018.03.14-10.31.12:511][958]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.14-10.31.12:514][958]LogScript: Warning: Accessed None trying to read property Current Audio
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:28C9
+[2018.03.14-10.31.12:515][958]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Current Audio from function: 'ExecuteUbergraph_VR_Conroller' from node: Stop in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Current Audio
+[2018.03.14-10.31.12:535][958]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Apartment 1.113
+[2018.03.14-10.31.12:535][958]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.31.37:751][ 63]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:1104).
+[2018.03.14-10.31.37:789][ 63]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:1104).
+[2018.03.14-10.31.38:130][ 78]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:1119).
+[2018.03.14-10.31.38:173][ 78]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:1119).
+[2018.03.14-10.31.38:711][ 95]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:1136).
+[2018.03.14-10.31.38:765][ 95]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:1136).
+[2018.03.14-10.32.00:877][634]LogScript: Warning: Attempted to access index 0 from array ComponentTags of length 0!
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:1D07
+[2018.03.14-10.32.00:878][634]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.14-10.32.03:650][696]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.32.05:571][739]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.32.06:331][756]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.32.06:867][768]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.32.07:627][785]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.32.08:162][797]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.32.10:081][858]LogScript: Warning: Attempted to access index 0 from array ComponentTags of length 0!
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:241C
+[2018.03.14-10.32.10:082][858]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.14-10.32.10:813][891]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:1932).
+[2018.03.14-10.32.10:838][891]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:1932).
+[2018.03.14-10.32.11:714][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.32.11:978][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.32.20:080][514]LogSlate: Took 0.007282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.03.14-10.32.24:361][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Apartment" FILE="../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Maps/Apartment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.14-10.32.25:864][694]LogSavePackage: Save=1451.52ms
+[2018.03.14-10.32.25:864][694]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/Apartment70B4CD664AD77964F4AC82B9B4236480.tmp' to '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Maps/Apartment.umap'
+[2018.03.14-10.32.25:873][694]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Maps/Apartment.umap
+[2018.03.14-10.33.40:940][319]BlueprintLog: New page: Compile BP_Scissors
+[2018.03.14-10.33.51:973][260]BlueprintLog: New page: Compile BP_Scissors
+[2018.03.14-10.33.52:759][287]LogTemp: Repeating last play command: VR Preview
+[2018.03.14-10.33.52:789][287]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.33.52:789][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.14-10.33.52:789][287]PIE: New page: PIE session: Apartment (14 Mar 2018 10:33:52)
+[2018.03.14-10.33.52:790][287]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Apartment
+[2018.03.14-10.33.52:998][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.208118s)
+[2018.03.14-10.33.52:998][287]LogAIModule: Creating AISystem for world Apartment
+[2018.03.14-10.33.52:999][287]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2018.03.14-10.33.52:999][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Apartment.Apartment to /Game/Maps/UEDPIE_0_Apartment.Apartment (0.209629s)
+[2018.03.14-10.33.53:032][287]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.14-10.33.53:044][287]LogInit: FAudioDevice initialized.
+[2018.03.14-10.33.53:131][287]LogLoad: Game class is 'GameModePrototype'
+[2018.03.14-10.33.53:151][287]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Apartment.Apartment up for play (max tick rate 0) at 2018.03.14-10.33.53
+[2018.03.14-10.33.53:153][287]LogWorld: Bringing up level for play took: 0.021276
+[2018.03.14-10.33.53:154][287]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.14-10.33.53:158][287]LogScript: Warning: Accessed None trying to read property Current Audio
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:28C9
+[2018.03.14-10.33.53:158][287]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Current Audio from function: 'ExecuteUbergraph_VR_Conroller' from node: Stop in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Current Audio
+[2018.03.14-10.33.53:162][287]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Apartment -0.259
+[2018.03.14-10.33.53:163][287]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.34.24:512][251]LogScript: Warning: Attempted to access index 0 from array ComponentTags of length 0!
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:1D07
+[2018.03.14-10.34.24:513][251]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.14-10.34.25:998][284]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.34.25:998][284]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.34.26:312][291]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.34.26:928][305]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.34.27:333][314]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.34.27:847][325]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.34.27:848][325]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.34.28:386][337]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.34.28:432][338]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.34.28:879][348]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.34.29:772][368]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.34.29:815][369]LogBlueprintUserMessages: [BP_Bomb_238] LONG LADS
+[2018.03.14-10.34.32:271][424]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.34.32:524][424]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.35.50:491][984]BlueprintLog: New page: Compile BP_Bomb
+[2018.03.14-10.35.51:579][ 34]LogTemp: Repeating last play command: VR Preview
+[2018.03.14-10.35.51:618][ 34]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.35.51:618][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.14-10.35.51:618][ 34]PIE: New page: PIE session: Apartment (14 Mar 2018 10:35:51)
+[2018.03.14-10.35.51:619][ 34]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Apartment
+[2018.03.14-10.35.51:807][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.188242s)
+[2018.03.14-10.35.51:808][ 34]LogAIModule: Creating AISystem for world Apartment
+[2018.03.14-10.35.51:808][ 34]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2018.03.14-10.35.51:809][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Apartment.Apartment to /Game/Maps/UEDPIE_0_Apartment.Apartment (0.190444s)
+[2018.03.14-10.35.51:835][ 34]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.14-10.35.51:849][ 34]LogInit: FAudioDevice initialized.
+[2018.03.14-10.35.51:926][ 34]LogLoad: Game class is 'GameModePrototype'
+[2018.03.14-10.35.51:947][ 34]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Apartment.Apartment up for play (max tick rate 0) at 2018.03.14-10.35.51
+[2018.03.14-10.35.51:950][ 34]LogWorld: Bringing up level for play took: 0.023260
+[2018.03.14-10.35.51:950][ 34]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.14-10.35.51:953][ 34]LogScript: Warning: Accessed None trying to read property Current Audio
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:28C9
+[2018.03.14-10.35.51:953][ 34]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Current Audio from function: 'ExecuteUbergraph_VR_Conroller' from node: Stop in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Current Audio
+[2018.03.14-10.35.51:957][ 34]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Apartment 0.537
+[2018.03.14-10.35.51:958][ 34]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.36.04:666][577]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:542).
+[2018.03.14-10.36.04:703][577]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:542).
+[2018.03.14-10.36.11:948][822]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:787).
+[2018.03.14-10.36.11:975][822]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:787).
+[2018.03.14-10.36.20:677][ 30]LogScript: Warning: Attempted to access index 0 from array ComponentTags of length 0!
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:241C
+[2018.03.14-10.36.20:677][ 30]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.14-10.36.24:330][119]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.36.24:584][119]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.36.28:097][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scissors_01_SM)
+[2018.03.14-10.36.29:176][338]Cmd: DELETE
+[2018.03.14-10.36.29:177][338]Cmd: ACTOR DELETE
+[2018.03.14-10.36.32:634][338]LogEditorActor: Deleted 0 Actors (3.457 secs)
+[2018.03.14-10.36.41:710][ 70]BlueprintLog: New page: Compile Apartment
+[2018.03.14-10.36.45:213][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bowl_01_SM)
+[2018.03.14-10.36.46:674][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scissors_01_SM)
+[2018.03.14-10.36.48:311][382]Cmd: DELETE
+[2018.03.14-10.36.48:311][382]Cmd: ACTOR DELETE
+[2018.03.14-10.36.48:328][382]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.14-10.36.48:349][382]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.03.14-10.37.15:323][837]BlueprintLog: New page: Compile Apartment
+[2018.03.14-10.37.42:252][229]BlueprintLog: New page: Compile BP_Bomb
+[2018.03.14-10.41.27:664][977]BlueprintLog: New page: Compile BP_Bomb
+[2018.03.14-10.42.15:778][204]BlueprintLog: New page: Compile BP_Bomb
+[2018.03.14-10.43.19:500][844]BlueprintLog: New page: Compile BP_Bomb
+[2018.03.14-10.43.26:626][314]LogTemp: Repeating last play command: VR Preview
+[2018.03.14-10.43.26:676][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.43.26:676][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.14-10.43.26:676][314]PIE: New page: PIE session: Apartment (14 Mar 2018 10:43:26)
+[2018.03.14-10.43.26:676][314]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Apartment
+[2018.03.14-10.43.26:898][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.221149s)
+[2018.03.14-10.43.26:899][314]LogAIModule: Creating AISystem for world Apartment
+[2018.03.14-10.43.26:899][314]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2018.03.14-10.43.26:900][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Apartment.Apartment to /Game/Maps/UEDPIE_0_Apartment.Apartment (0.223401s)
+[2018.03.14-10.43.26:924][314]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.14-10.43.26:938][314]LogInit: FAudioDevice initialized.
+[2018.03.14-10.43.27:029][314]LogLoad: Game class is 'GameModePrototype'
+[2018.03.14-10.43.27:049][314]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Apartment.Apartment up for play (max tick rate 0) at 2018.03.14-10.43.27
+[2018.03.14-10.43.27:052][314]LogWorld: Bringing up level for play took: 0.022130
+[2018.03.14-10.43.27:055][314]LogScript: Warning: Accessed None trying to read property Current Audio
+	VR_Conroller_C /Game/Maps/UEDPIE_0_Apartment.Apartment:PersistentLevel.VR_Conroller_1082
+	Function /Game/CrossScene/Blueprints/VR_Conroller.VR_Conroller_C:ExecuteUbergraph_VR_Conroller:28C9
+[2018.03.14-10.43.27:056][314]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Current Audio from function: 'ExecuteUbergraph_VR_Conroller' from node: Stop in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Current Audio
+[2018.03.14-10.43.27:062][314]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Apartment -0.354
+[2018.03.14-10.43.27:063][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.43.46:002][ 50]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:735).
+[2018.03.14-10.43.46:030][ 50]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:735).
+[2018.03.14-10.44.00:028][414]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.14-10.44.01:768][490]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.14-10.44.18:644][896]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.14-10.44.31:703][240]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.14-10.44.32:859][292]LogRenderer: Reallocating scene render targets to support 1080x600 Format 10 NumSamples 1 (Frame:1977).
+[2018.03.14-10.44.32:880][292]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:1977).
+[2018.03.14-10.44.42:911][532]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.14-10.44.46:728][673]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array ComponentTags of length 0! from function: 'ExecuteUbergraph_VR_Conroller' from node: Picked Up Item in graph: EventGraph in object: VR_Conroller with description: Attempted to access index 0 from array ComponentTags of length 0!
+[2018.03.14-10.44.55:596][989]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.14-10.44.56:267][ 16]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Hit Component from function: 'ExecuteUbergraph_VR_Conroller' from node: Branch in graph: EventGraph in object: VR_Conroller with description: Accessed None trying to read property Hit Component
+[2018.03.14-10.44.59:486][141]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.44.59:705][141]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Apartment.Apartment:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment' with GeneratedClass '/Game/Maps/Apartment.Apartment_C' with ClassGeneratedBy '/Game/Maps/Apartment.Apartment:PersistentLevel.Apartment'
+[2018.03.14-10.45.43:287][ 93]LogEditorViewport: Clicking on Actor (LMB): BP_Bomb_C (BP_Bomb)
+[2018.03.14-10.45.53:611][950]LogEditorViewport: Clicking on Actor (LMB): Knife_C (Knife)
+[2018.03.14-10.49.45:901][200]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.14-10.50.20:311][197]LogEditorTransaction: Undo Delete current selection
+[2018.03.14-10.50.34:193][425]LogAudioDerivedData: Display: Building compressed audio format OGG wave Tutorial_VO1...
+[2018.03.14-10.50.34:744][425]LogAudioDerivedData: Display: Building compressed audio format OGG wave Tutorial_VO2...
+[2018.03.14-10.50.35:037][425]LogAudioDerivedData: Display: Building compressed audio format OGG wave Tutorial_VO3...
+[2018.03.14-10.50.35:220][425]LogAudioDerivedData: Display: Building compressed audio format OGG wave Tutorial_VO4...
+[2018.03.14-10.50.35:704][425]LogAudioDerivedData: Display: Building compressed audio format OGG wave Tutorial_VO5...
+[2018.03.14-10.50.36:007][425]LogAudioDerivedData: Display: Building compressed audio format OGG wave Tutorial_VO6...
+[2018.03.14-10.50.36:298][425]LogAudioDerivedData: Display: Building compressed audio format OGG wave Tutorial_VO7...
+[2018.03.14-10.50.39:195][656]LogAudioDerivedData: Display: Building compressed audio format OGG wave Tutorial_VO8...
+[2018.03.14-10.50.39:451][657]LogAudioDerivedData: Display: Building compressed audio format OGG wave Tutorial_VO9...
+[2018.03.14-10.50.39:879][658]LogAudioDerivedData: Display: Building compressed audio format OGG wave VO_Blood...
+[2018.03.14-10.50.40:025][658]LogAudioDerivedData: Display: Building compressed audio format OGG wave VO_BlownLight...
+[2018.03.14-10.50.40:303][658]LogAudioDerivedData: Display: Building compressed audio format OGG wave VO_GameFail...
+[2018.03.14-10.53.04:203][483]LogAudioDerivedData: Display: Building compressed audio format OGG wave SFX_CountdownBeepLow...
+[2018.03.14-10.53.42:554][927]BlueprintLog: New page: Compile BP_Bomb
+[2018.03.14-10.54.02:939][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Apartment" FILE="../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Maps/Apartment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.14-10.54.04:375][702]LogSavePackage: Save=1390.04ms
+[2018.03.14-10.54.04:375][702]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/ApartmentB74CD9A944FAE50A360477BD16ABAF78.tmp' to '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Maps/Apartment.umap'
+[2018.03.14-10.54.04:382][702]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Maps/Apartment.umap
+[2018.03.14-10.54.04:428][702]LogFileHelpers: Saving map 'Apartment' took 1.595
+[2018.03.14-10.54.04:868][702]LogSavePackage: Save=406.68ms
+[2018.03.14-10.54.04:868][702]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/VR_ConrollerF3C8710D4038F5D42D0A3DB42FF5BFF0.tmp' to '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/CrossScene/Blueprints/VR_Conroller.uasset'
+[2018.03.14-10.54.04:871][702]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/CrossScene/Blueprints/VR_Conroller.uasset
+[2018.03.14-10.54.04:955][702]LogSavePackage: Save=66.19ms
+[2018.03.14-10.54.04:956][702]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/BP_Bomb1967806849BF9E346A1B09A962178FB6.tmp' to '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Apartment/ApartmentBlueprints/BP_Bomb.uasset'
+[2018.03.14-10.54.04:958][702]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Apartment/ApartmentBlueprints/BP_Bomb.uasset
+[2018.03.14-10.54.05:007][702]LogSavePackage: Save=22.67ms
+[2018.03.14-10.54.05:007][702]LogSavePackage: Moving '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/BP_Scissors7176EE204CDE3F532ABEF09651152506.tmp' to '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Apartment/ApartmentBlueprints/BP_Scissors.uasset'
+[2018.03.14-10.54.05:010][702]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Apartment/ApartmentBlueprints/BP_Scissors.uasset
+[2018.03.14-10.55.10:314][376]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.14-10.55.10:457][376]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.14-10.55.10:815][377]Cmd: QUIT_EDITOR
+[2018.03.14-10.55.11:331][377]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.14-10.55.11:350][377]LogExit: Preparing to exit.
+[2018.03.14-10.55.12:285][377]LogDirectoryWatcher: A directory notification for 'C:/Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/' was aborted.
+[2018.03.14-10.55.12:513][377]LogExit: Editor shut down
+[2018.03.14-10.55.12:544][377]LogExit: Transaction tracking system shut down
+[2018.03.14-10.55.12:908][377]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.14-10.55.12:908][377]LogDirectoryWatcher: A directory notification for '../../../../../../Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/' was aborted.
+[2018.03.14-10.55.12:908][377]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.14-10.55.12:908][377]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.14-10.55.12:908][377]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.14-10.55.12:908][377]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.14-10.55.12:908][377]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.14-10.55.13:343][377]LogExit: Object subsystem successfully closed.
+[2018.03.14-10.55.13:413][377]LogD3D11RHI: Shutdown
+[2018.03.14-10.55.13:414][377]LogD3D11RHI: CleanupD3DDevice
+[2018.03.14-10.55.13:429][377]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.14-10.55.13:470][377]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (562)
+[2018.03.14-10.55.13:470][377]LogModuleManager: Shutting down and abandoning module MaterialEditor (560)
+[2018.03.14-10.55.13:471][377]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (558)
+[2018.03.14-10.55.13:471][377]LogModuleManager: Shutting down and abandoning module BlueprintGraph (556)
+[2018.03.14-10.55.13:471][377]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (554)
+[2018.03.14-10.55.13:471][377]LogModuleManager: Shutting down and abandoning module SynthBenchmark (552)
+[2018.03.14-10.55.13:471][377]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.03.14-10.55.13:471][377]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.03.14-10.55.13:471][377]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.03.14-10.55.13:471][377]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.14-10.55.13:490][377]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.03.14-10.55.13:490][377]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.03.14-10.55.13:490][377]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.03.14-10.55.13:491][377]LogDirectoryWatcher: A directory notification for 'C:/Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Collections/' was aborted.
+[2018.03.14-10.55.13:491][377]LogDirectoryWatcher: A directory notification for 'C:/Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Content/Developers/at9amt/Collections/' was aborted.
+[2018.03.14-10.55.13:491][377]LogDirectoryWatcher: A directory notification for 'C:/Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Saved/Collections/' was aborted.
+[2018.03.14-10.55.13:491][377]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2018.03.14-10.55.13:492][377]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2018.03.14-10.55.13:492][377]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2018.03.14-10.55.13:494][377]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2018.03.14-10.55.13:494][377]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2018.03.14-10.55.13:494][377]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2018.03.14-10.55.13:494][377]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2018.03.14-10.55.13:494][377]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2018.03.14-10.55.13:494][377]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2018.03.14-10.55.13:494][377]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2018.03.14-10.55.13:494][377]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2018.03.14-10.55.13:494][377]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2018.03.14-10.55.13:495][377]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2018.03.14-10.55.13:495][377]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2018.03.14-10.55.13:495][377]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2018.03.14-10.55.13:497][377]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2018.03.14-10.55.13:497][377]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2018.03.14-10.55.13:497][377]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2018.03.14-10.55.13:497][377]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2018.03.14-10.55.13:497][377]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2018.03.14-10.55.13:497][377]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2018.03.14-10.55.13:497][377]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2018.03.14-10.55.13:497][377]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2018.03.14-10.55.13:498][377]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2018.03.14-10.55.13:498][377]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2018.03.14-10.55.13:498][377]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2018.03.14-10.55.13:498][377]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2018.03.14-10.55.13:498][377]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2018.03.14-10.55.13:498][377]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2018.03.14-10.55.13:498][377]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2018.03.14-10.55.13:498][377]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2018.03.14-10.55.13:499][377]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2018.03.14-10.55.13:499][377]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2018.03.14-10.55.13:499][377]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2018.03.14-10.55.13:501][377]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2018.03.14-10.55.13:503][377]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2018.03.14-10.55.13:504][377]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2018.03.14-10.55.13:505][377]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2018.03.14-10.55.13:505][377]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2018.03.14-10.55.13:505][377]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2018.03.14-10.55.13:505][377]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2018.03.14-10.55.13:772][377]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2018.03.14-10.55.13:772][377]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2018.03.14-10.55.13:772][377]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2018.03.14-10.55.13:772][377]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2018.03.14-10.55.13:773][377]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2018.03.14-10.55.13:774][377]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2018.03.14-10.55.13:774][377]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2018.03.14-10.55.13:774][377]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2018.03.14-10.55.13:774][377]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2018.03.14-10.55.13:775][377]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2018.03.14-10.55.13:776][377]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2018.03.14-10.55.13:776][377]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2018.03.14-10.55.13:776][377]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2018.03.14-10.55.13:776][377]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2018.03.14-10.55.13:776][377]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2018.03.14-10.55.13:776][377]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2018.03.14-10.55.13:776][377]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2018.03.14-10.55.13:777][377]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2018.03.14-10.55.13:777][377]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2018.03.14-10.55.13:778][377]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2018.03.14-10.55.13:779][377]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2018.03.14-10.55.13:779][377]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2018.03.14-10.55.13:780][377]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2018.03.14-10.55.13:780][377]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2018.03.14-10.55.13:844][377]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2018.03.14-10.55.13:845][377]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2018.03.14-10.55.13:846][377]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2018.03.14-10.55.13:848][377]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2018.03.14-10.55.13:848][377]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2018.03.14-10.55.13:848][377]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2018.03.14-10.55.13:849][377]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2018.03.14-10.55.13:850][377]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2018.03.14-10.55.13:850][377]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2018.03.14-10.55.13:850][377]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2018.03.14-10.55.13:871][377]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2018.03.14-10.55.13:873][377]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2018.03.14-10.55.13:873][377]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2018.03.14-10.55.13:873][377]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2018.03.14-10.55.13:874][377]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2018.03.14-10.55.13:874][377]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2018.03.14-10.55.13:874][377]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2018.03.14-10.55.13:876][377]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2018.03.14-10.55.13:876][377]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2018.03.14-10.55.13:876][377]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2018.03.14-10.55.13:876][377]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2018.03.14-10.55.13:876][377]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2018.03.14-10.55.13:876][377]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2018.03.14-10.55.13:876][377]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2018.03.14-10.55.13:876][377]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2018.03.14-10.55.13:876][377]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2018.03.14-10.55.13:876][377]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2018.03.14-10.55.13:876][377]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2018.03.14-10.55.13:877][377]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2018.03.14-10.55.13:952][377]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2018.03.14-10.55.13:953][377]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2018.03.14-10.55.13:953][377]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2018.03.14-10.55.13:953][377]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2018.03.14-10.55.13:953][377]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2018.03.14-10.55.13:953][377]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2018.03.14-10.55.13:953][377]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2018.03.14-10.55.13:953][377]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2018.03.14-10.55.13:953][377]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
+[2018.03.14-10.55.13:953][377]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
+[2018.03.14-10.55.13:953][377]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2018.03.14-10.55.13:953][377]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2018.03.14-10.55.13:956][377]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2018.03.14-10.55.13:956][377]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2018.03.14-10.55.13:956][377]LogModuleManager: Shutting down and abandoning module HTML5Networking (320)
+[2018.03.14-10.55.13:956][377]LogModuleManager: Shutting down and abandoning module AlembicImporter (318)
+[2018.03.14-10.55.13:956][377]LogModuleManager: Shutting down and abandoning module AlembicLibrary (317)
+[2018.03.14-10.55.13:956][377]LogModuleManager: Shutting down and abandoning module GeometryCache (316)
+[2018.03.14-10.55.13:957][377]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (315)
+[2018.03.14-10.55.13:957][377]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (310)
+[2018.03.14-10.55.13:957][377]LogModuleManager: Shutting down and abandoning module PluginBrowser (308)
+[2018.03.14-10.55.13:959][377]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (306)
+[2018.03.14-10.55.13:960][377]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (304)
+[2018.03.14-10.55.13:960][377]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (302)
+[2018.03.14-10.55.13:960][377]LogModuleManager: Shutting down and abandoning module UObjectPlugin (300)
+[2018.03.14-10.55.13:960][377]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (298)
+[2018.03.14-10.55.13:961][377]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (296)
+[2018.03.14-10.55.13:962][377]LogModuleManager: Shutting down and abandoning module GitSourceControl (294)
+[2018.03.14-10.55.13:964][377]LogModuleManager: Shutting down and abandoning module SourceControl (293)
+[2018.03.14-10.55.13:964][377]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (290)
+[2018.03.14-10.55.13:964][377]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (288)
+[2018.03.14-10.55.13:964][377]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (286)
+[2018.03.14-10.55.13:964][377]LogModuleManager: Shutting down and abandoning module Paper2DEditor (284)
+[2018.03.14-10.55.13:965][377]LogModuleManager: Shutting down and abandoning module MeshPaint (283)
+[2018.03.14-10.55.13:966][377]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2018.03.14-10.55.13:969][377]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2018.03.14-10.55.13:969][377]LogModuleManager: Shutting down and abandoning module MainFrame (278)
+[2018.03.14-10.55.13:969][377]LogModuleManager: Shutting down and abandoning module HotReload (277)
+[2018.03.14-10.55.13:970][377]LogDirectoryWatcher: A directory notification for 'C:/Users/at9amt/Documents/Inventor/PGVR/GumshoeVR/Binaries/Win64' was aborted.
+[2018.03.14-10.55.13:972][377]LogModuleManager: Shutting down and abandoning module VRProj (272)
+[2018.03.14-10.55.13:972][377]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
+[2018.03.14-10.55.13:973][377]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
+[2018.03.14-10.55.13:973][377]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
+[2018.03.14-10.55.13:973][377]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
+[2018.03.14-10.55.13:973][377]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
+[2018.03.14-10.55.13:973][377]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
+[2018.03.14-10.55.13:973][377]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
+[2018.03.14-10.55.13:973][377]LogModuleManager: Shutting down and abandoning module UdpMessaging (256)
+[2018.03.14-10.55.14:074][377]LogModuleManager: Shutting down and abandoning module TcpMessaging (254)
+[2018.03.14-10.55.14:175][377]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (252)
+[2018.03.14-10.55.14:176][377]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (250)
+[2018.03.14-10.55.14:176][377]LogModuleManager: Shutting down and abandoning module FacialAnimation (248)
+[2018.03.14-10.55.14:176][377]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (246)
+[2018.03.14-10.55.14:177][377]LogModuleManager: Shutting down and abandoning module GraphEditor (245)
+[2018.03.14-10.55.14:177][377]LogModuleManager: Shutting down and abandoning module ContentBrowser (243)
+[2018.03.14-10.55.14:179][377]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (240)
+[2018.03.14-10.55.14:179][377]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.03.14-10.55.14:179][377]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.03.14-10.55.14:179][377]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.03.14-10.55.14:180][377]LogModuleManager: Shutting down and abandoning module ImgMedia (232)
+[2018.03.14-10.55.14:180][377]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.03.14-10.55.14:180][377]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.03.14-10.55.14:180][377]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.03.14-10.55.14:181][377]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.03.14-10.55.14:181][377]LogModuleManager: Shutting down and abandoning module Media (223)
+[2018.03.14-10.55.14:187][377]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2018.03.14-10.55.14:187][377]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2018.03.14-10.55.14:187][377]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2018.03.14-10.55.14:189][377]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2018.03.14-10.55.14:189][377]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2018.03.14-10.55.14:189][377]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2018.03.14-10.55.14:192][377]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2018.03.14-10.55.14:192][377]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2018.03.14-10.55.14:193][377]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2018.03.14-10.55.14:193][377]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2018.03.14-10.55.14:193][377]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2018.03.14-10.55.14:195][377]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2018.03.14-10.55.14:197][377]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2018.03.14-10.55.14:197][377]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2018.03.14-10.55.14:200][377]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2018.03.14-10.55.14:200][377]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2018.03.14-10.55.14:203][377]LogModuleManager: Shutting down and abandoning module MRMesh (186)
+[2018.03.14-10.55.14:203][377]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (184)
+[2018.03.14-10.55.14:203][377]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (182)
+[2018.03.14-10.55.14:203][377]LogModuleManager: Shutting down and abandoning module XAudio2 (180)
+[2018.03.14-10.55.14:203][377]LogModuleManager: Shutting down and abandoning module Networking (178)
+[2018.03.14-10.55.14:203][377]LogModuleManager: Shutting down and abandoning module Core (174)
+[2018.03.14-10.55.14:203][377]LogModuleManager: Shutting down and abandoning module LevelSequence (170)
+[2018.03.14-10.55.14:203][377]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (168)
+[2018.03.14-10.55.14:210][377]LogModuleManager: Shutting down and abandoning module KismetCompiler (166)
+[2018.03.14-10.55.14:210][377]LogModuleManager: Shutting down and abandoning module MeshUtilities (164)
+[2018.03.14-10.55.14:211][377]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (163)
+[2018.03.14-10.55.14:212][377]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (162)
+[2018.03.14-10.55.14:212][377]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (161)
+[2018.03.14-10.55.14:213][377]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (159)
+[2018.03.14-10.55.14:213][377]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (157)
+[2018.03.14-10.55.14:213][377]LogModuleManager: Shutting down and abandoning module MaterialBaking (153)
+[2018.03.14-10.55.14:213][377]LogModuleManager: Shutting down and abandoning module DerivedDataCache (150)
+[2018.03.14-10.55.14:215][377]LogDerivedDataCache: Shutdown
+[2018.03.14-10.55.14:215][377]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2018.03.14-10.55.14:215][377]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2018.03.14-10.55.14:216][377]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2018.03.14-10.55.14:216][377]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2018.03.14-10.55.14:217][377]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2018.03.14-10.55.14:217][377]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2018.03.14-10.55.14:217][377]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2018.03.14-10.55.14:217][377]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2018.03.14-10.55.14:217][377]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2018.03.14-10.55.14:217][377]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (99)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (97)
+[2018.03.14-10.55.14:218][377]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (95)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (93)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.03.14-10.55.14:219][377]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.03.14-10.55.14:220][377]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.03.14-10.55.14:220][377]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.03.14-10.55.14:220][377]LogModuleManager: Shutting down and abandoning module AugmentedReality (53)
+[2018.03.14-10.55.14:220][377]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (50)
+[2018.03.14-10.55.14:220][377]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (46)
+[2018.03.14-10.55.14:220][377]LogModuleManager: Shutting down and abandoning module XMPP (45)
+[2018.03.14-10.55.14:222][377]LogModuleManager: Shutting down and abandoning module HTTP (43)
+[2018.03.14-10.55.14:222][377]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.03.14-10.55.14:222][377]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3A145282-4732-6179-63BB-B5B8B0FE3529%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=ed6236ce4c40806490a868b47a15a5bc%7C%7Caed38978-7903-4a25-92c3-ce1bf6490cdb&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.14-10.55.14:222][377]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3A145282-4732-6179-63BB-B5B8B0FE3529%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=ed6236ce4c40806490a868b47a15a5bc%7C%7Caed38978-7903-4a25-92c3-ce1bf6490cdb&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.14-10.55.14:228][377]LogModuleManager: Shutting down and abandoning module SSL (42)
+[2018.03.14-10.55.14:230][377]LogModuleManager: Shutting down and abandoning module DesktopPlatform (38)
+[2018.03.14-10.55.14:231][377]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.14-10.55.14:231][377]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.14-10.55.14:231][377]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.14-10.55.14:231][377]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.14-10.55.14:231][377]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.14-10.55.14:231][377]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.14-10.55.14:231][377]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.14-10.55.14:238][377]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.14-10.55.14:239][377]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.14-10.55.14:239][377]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.14-10.55.14:240][377]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.14-10.55.14:240][377]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.14-10.55.14:240][377]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.14-10.55.14:240][377]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.14-10.55.14:240][377]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.14-10.55.14:240][377]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.14-10.55.14:240][377]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.14-10.55.14:240][377]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.14-10.55.14:244][377]LogExit: Exiting.
+[2018.03.14-10.55.14:267][377]Log file closed, 03/14/18 10:55:14
